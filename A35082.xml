@@ -1,0 +1,2016 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of the letter from His Excellency the Lord Generall Cromwell, sent to the members of Parliament called to take upon them the trust of the government of this common-vvealth : which began on Munday the fourth of June, 1653, the day appointed by the letters of summons from his Excellency the Lord Gen. Cromwell for the meeting of these gentlemen : with severall transactions since that time.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35082</idno>
+            <idno type="STC">Wing C7054</idno>
+            <idno type="STC">ESTC R5464</idno>
+            <idno type="EEBO-CITATION">12704964</idno>
+            <idno type="OCLC">ocm 12704964</idno>
+            <idno type="VID">66009</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35082)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66009)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 687:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of the letter from His Excellency the Lord Generall Cromwell, sent to the members of Parliament called to take upon them the trust of the government of this common-vvealth : which began on Munday the fourth of June, 1653, the day appointed by the letters of summons from his Excellency the Lord Gen. Cromwell for the meeting of these gentlemen : with severall transactions since that time.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 50, 8 p. : ill., ports.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for Tho. Jenner ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes, besides reports of important events, various public documents of 1653-1656, notably the Instrument of government (published in 1653 with title "Articles signed by His Highness Oliver Cromwell ..."), lists members of Cromwell's Parliaments in 1653 and 1656, and "An act declaring what offences shall be adjudged treason", of 17 July 1649.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66009:1"/>
+            <p>A COPY of the LETTER <hi>FROM His</hi> Excellency <hi>the</hi> Lord Generall <hi>CROMWELL,</hi> SENT TO THE MEMBERS OF PARLIAMENT.</p>
+            <p>
+               <hi>Called to take upon them the Truſt of the</hi> Government <hi>of this</hi> Common-wealth.</p>
+            <p>
+               <hi>WHICH</hi> Began on <hi>Munday</hi> the Fourth of <hi>June,</hi> 1653. The day appointed by the Letters of Summons from his Excellency the Lord Gen. <hi>Cromwell,</hi> for the meeting of theſe <hi>GENTLEMEN.</hi>
+            </p>
+            <p>
+               <hi>With the ſeverall Tranſactions ſince that time.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. S.</hi> for <hi>Tho: Jenner</hi> at the South-entrance of the Royall Exchange. 1656</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66009:2"/>
+            <pb n="1" facs="tcp:66009:2"/>
+            <div type="letter">
+               <head>A COPY of the <hi>LETTER</hi> From his Exccellency the Lord Generall <hi>Cromwell,</hi> ſent to the Members of Parliament, <hi>called to take upon them the Truſt of the Govern<g ref="char:EOLhyphen"/>ment of this Common-wealth.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch as upon the diſſolution of the late Parliament, it became neceſſary that the Peace, Safety and Goverment of this Com<g ref="char:EOLhyphen"/>mon-wealth ſhould be provided for; and in order thereunto, divers perſons fearing God, and of approved fidelity and honeſty, are by my Selfe, with the advice of My Counſel of Officers nominated, to whom the Charge and Truſt of ſo weighty Affaires is to be committed. And having good aſſurance of your love to, and courage for God, and the intereſt of his Cauſe, and of the good people of this Common-wealth, I <hi>Oliver Cromwell,</hi> Captain Generall, and Commander in Chief of all the Armies and Forces raiſed and to be raiſed within this Common-wealth, do hereby ſummon and require you, being one of the perſons nominated, perſonally to be, and appear at the Counſell Chamber commonly known, or called by the name of the <hi>Councell Chamber at White Hall,</hi> within the City of <hi>Weſtminſter,</hi> upon the fourth day of <hi>July</hi> next, enſuing the date hereof, then and there to take upon you the ſaid Truſt, unto which you are hereby called, and appointed to ſerve as a Member for the County of — And hereof you are not to fail. <hi>Given under My hand and ſeale the — day of</hi> June, 1653.</p>
+               <closer>
+                  <signed>O: CROMWELL.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Monday,</hi> June 4. 1653.</head>
+               <p>This being the day appointed by the Letters of S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmons, from his Excellency the Lord General <hi>Cromwell,</hi> for the mee<g ref="char:EOLhyphen"/>ting
+<pb n="4" facs="tcp:66009:3"/> of thoſe Gentlemen that were called to the Supream Au<g ref="char:EOLhyphen"/>thority, they met accordingly in the <hi>Councell</hi> Chamber, where being entred the Room, above one hundred and twenty in number, and being ſet round about the Table, the Lord Ge<g ref="char:EOLhyphen"/>nerall ſtanding by the window oppoſite to the middle of the Table and having as many of the Army-Officers as the room could well contein, on his right hand and on his left, his Lordſhip made a very grave Chriſtian and ſeaſonable ſpeech and Exhortation, wherein he breifly recounted the many great and wondrous mercyes of God towards this Nation, and the Series of providence wherein the preſence of God did wonderfully appear in carrying on this Cauſe, and bringing affaires into the preſent condition, beyond all expectation; aſcribing the glory of all to God alone.</p>
+               <p>He ſet forth alſo in particular the progreſſe of affaires ſince the famous victory at <hi>Worceſter,</hi> wherein that Arch Enemy of this nation was wholly ſubdued. He likewiſe laid down the actings of the Army there upon, after divers applications to the Parliament, and much being wanting, and for<g ref="char:EOLhyphen"/>bearance, together with the grounds and neceſſity of their diſſolving the ſaid Parliament, which his Excellency declared to be for the preſevation of this Cauſe, and the intereſt of all honeſt men who have been ingaged therein.</p>
+               <p>Moreover, he very amply held forth the cleareneſſe of the Call given to the preſent Members to take the Supream Authority, and did from the Scriptures exhort them to their duties and incourage them therein, deſiring that a tendernes might be uſed towards all godly and conſcientious perſons, of what judgment and under what form ſoever.</p>
+               <p>Which being ended, his Lordſhip produced an inſtrument under his own hand and ſeale, wherby he did with the adviſe of his Officer, devolve and entruſt the Supream Authority and Government of this Common-wealth, into the hands of the perſons then met, who or any forty of them are to be held and acknowledged the Supream Authority of the Nati<g ref="char:EOLhyphen"/>on, unto whom all perſons within the ſame, and the Territo<g ref="char:EOLhyphen"/>ries thereunto belonging are to yeild obedience and ſubjecti<g ref="char:EOLhyphen"/>on. And they are not to ſit longer then the 3 day of Novem<g ref="char:EOLhyphen"/>ber,
+<pb n="5" facs="tcp:66009:3"/> 1654. Three months before their diſſolution they are to make choyce of other perſons to ſucceed them, who are not to ſit longer then a twelve month; but it is left to them to take care for a ſucceſſion in Government: which Inſtru<g ref="char:EOLhyphen"/>ment being delivered to the perſons aforeſaid, his Lordſhip commended them to the Grace of God.</p>
+               <p>This being done his Excellency and his Officers withdrew; and the ſaid perſons ſo met, having the Supream Authority put into their hands, after ſome ſhort ſpace, adjourned till the next morning eight a clock, and appointed to meet in the old Parliament Houſe there to ſeek God for direction in this great work, and for his preſence and bleſſing therein. Hereupon, without doing any further buſineſſe, they all departed.</p>
+            </div>
+            <div type="list_of_names">
+               <head>The Names of the Members of Parliament, which began June <hi>4. 1653.</hi> With the reſpective Counties for which they ſerve.
+<figure>
+                     <figDesc>depiction of Parliament</figDesc>
+                  </figure>
+               </head>
+               <list>
+                  <head>Berks.</head>
+                  <item>SAmuell Dunch</item>
+                  <item>Vincent Goddard</item>
+                  <item>Thomas Wood</item>
+               </list>
+               <list>
+                  <head>Bedford.</head>
+                  <item>Nathaniell Taylor</item>
+                  <item>Edward Cater</item>
+                  <pb n="6" facs="tcp:66009:4"/>
+                  <item>Edward Cater</item>
+               </list>
+               <list>
+                  <head>Buckingham.</head>
+                  <item>George Fleetwood</item>
+                  <item>George Baldwin</item>
+               </list>
+               <list>
+                  <head>Cambridge.</head>
+                  <item>John Sadler</item>
+                  <item>Thomas French</item>
+                  <item>Robert Caſtle</item>
+                  <item>Samuell Warner</item>
+               </list>
+               <list>
+                  <head>Cheſter.</head>
+                  <item>Robert Duckenfield</item>
+                  <item>Henry Birkinhead</item>
+               </list>
+               <list>
+                  <head>Four Nothern Counties.</head>
+                  <item>Charles Howard</item>
+                  <item>Robert Fenwick</item>
+                  <item>Henry Dawſon</item>
+                  <item>Henry Ogle</item>
+               </list>
+               <list>
+                  <head>Cornwall</head>
+                  <item>Robert Bennet</item>
+                  <item>Francis Langdon</item>
+                  <item>Anthony Rous</item>
+                  <item>John Bawden</item>
+               </list>
+               <list>
+                  <head>Derby.</head>
+                  <item>Jervas Bennet</item>
+                  <item>Nathanael Barton</item>
+               </list>
+               <list>
+                  <head>Devon.</head>
+                  <item>George Monke, <hi>one of the Generalls at Sea.</hi>
+                  </item>
+                  <item>John Carew</item>
+                  <item>Thomas Sanders</item>
+                  <item>Chriſtopher Martin</item>
+                  <item>James Eriſey</item>
+                  <item>Francis Rous</item>
+                  <item>Richard Swe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+               </list>
+               <list>
+                  <head>Dorcet.</head>
+                  <item>William Sydenham</item>
+                  <item>John Bingham</item>
+               </list>
+               <list>
+                  <head>Eſſex.</head>
+                  <item>Joachim Matthews</item>
+                  <item>Henry Barington</item>
+                  <item>John Brewſter</item>
+                  <item>Chriſtopher Earle</item>
+                  <item>Dudley Templer</item>
+               </list>
+               <list>
+                  <head>Gouceſter.</head>
+                  <item>John Crofts</item>
+                  <item>William Neaſt</item>
+                  <item>Robert Holmes</item>
+               </list>
+               <list>
+                  <head>Southampton.</head>
+                  <item>Richard Norton</item>
+                  <item>Richard Major</item>
+                  <item>John Hyldeſley</item>
+               </list>
+               <list>
+                  <head>Hertford.</head>
+                  <item>Henry Lawrance</item>
+                  <item>William Reeve</item>
+               </list>
+               <list>
+                  <head>Hereford.</head>
+                  <item>Wroth Rogers</item>
+                  <item>John Herring</item>
+               </list>
+               <list>
+                  <head>Huntington.</head>
+                  <item>Edward Montague</item>
+                  <item>Stephen Pheſaunt</item>
+               </list>
+               <list>
+                  <head>Kent.</head>
+                  <item>
+                     <hi>Lord Viſcount</hi> Liſle.</item>
+                  <item>Thomas Blount</item>
+                  <item>William Kenrick</item>
+                  <item>William Cullen</item>
+                  <item>Andrew Broughton</item>
+               </list>
+               <list>
+                  <head>Lancaſter.</head>
+                  <item>William Weſt</item>
+                  <item>John Sawrey</item>
+                  <item>Robert Cunl ffe</item>
+               </list>
+               <list>
+                  <head>Leiceſter.</head>
+                  <item>Henry Danvers</item>
+                  <item>Edward Smith</item>
+                  <item>John Prat</item>
+               </list>
+               <list>
+                  <pb n="7" facs="tcp:66009:4"/>
+                  <head>Lincoln</head>
+                  <item>
+                     <hi>Sir</hi> William Brownelow</item>
+                  <item>Richard Cuſt</item>
+                  <item>Barn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>by Bowtell</item>
+                  <item>Humphrey Walcot</item>
+                  <item>William Thompſon</item>
+               </list>
+               <list>
+                  <head>Middleſex</head>
+                  <item>
+                     <hi>Sir</hi> Willam Roberts</item>
+                  <item>Auguſtine Wingfield</item>
+                  <item>Arthur Squib</item>
+               </list>
+               <list>
+                  <head>Monmouth</head>
+                  <item>Philip Jones</item>
+               </list>
+               <list>
+                  <head>Northampton</head>
+                  <item>
+                     <hi>Sir</hi> Gilbert Pickering</item>
+                  <item>Thomas Brook</item>
+               </list>
+               <list>
+                  <head>Norfolk.</head>
+                  <item>Robert Jermy</item>
+                  <item>Tobias Fecets</item>
+                  <item>Ralph Walmer</item>
+                  <item>Henry King</item>
+                  <item>Willam Burton</item>
+               </list>
+               <list>
+                  <head>Nottingham</head>
+                  <item>John Oddingſels</item>
+                  <item>Edward Chid</item>
+               </list>
+               <list>
+                  <head>Oxon</head>
+                  <item>
+                     <hi>Sir</hi> Charles Wolſley</item>
+                  <item>William Draper</item>
+                  <item>
+                     <hi>Dr.</hi> Jonathan Goddard</item>
+               </list>
+               <list>
+                  <head>Rutland.</head>
+                  <item>Edward Horſeman</item>
+               </list>
+               <list>
+                  <head>Salop.</head>
+                  <item>William Botterel</item>
+                  <item>Thomas Baker</item>
+               </list>
+               <list>
+                  <head>Stafford.</head>
+                  <item>George Bellit</item>
+                  <item>John Chetwood</item>
+               </list>
+               <list>
+                  <head>Suffolk.</head>
+                  <item>Jacob Caley</item>
+                  <item>Francis Brewſter</item>
+                  <item>Robert Dunkon</item>
+                  <item>John Clark</item>
+                  <item>Edward Plumſtead</item>
+               </list>
+               <list>
+                  <head>Somerſet.</head>
+                  <item>Robert Blake, <hi>one of the Generalls at Sea.</hi>
+                  </item>
+                  <item>John Pine</item>
+                  <item>Dennis Holliſter</item>
+                  <item>Henry Henly</item>
+               </list>
+               <list>
+                  <head>Surrey.</head>
+                  <item>Samuel Hickland</item>
+                  <item>Laurence March</item>
+               </list>
+               <list>
+                  <head>Suſſex.</head>
+                  <item>Anthoney Stapley</item>
+                  <item>William Spence</item>
+                  <item>Nathanaell Studely</item>
+               </list>
+               <list>
+                  <head>Warwick.</head>
+                  <item>
+                     <hi>John St.</hi> Nicholas</item>
+                  <item>Richard Lucy</item>
+               </list>
+               <list>
+                  <head>Wilts.</head>
+                  <item>
+                     <hi>Sir</hi> Anthony Aſhley Cooper</item>
+                  <item>Nicholas Greene</item>
+                  <item>Thomas Eyre</item>
+               </list>
+               <list>
+                  <head>Worceſter.</head>
+                  <item>Richard Salway</item>
+                  <item>John James</item>
+               </list>
+               <list>
+                  <head>Yorke.</head>
+                  <item>George <hi>Lord</hi> Evr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>Walter Strikland</item>
+                  <item>Francis Laſſols</item>
+                  <item>Iohn Anlaby</item>
+                  <item>Thomas Dickenſon</item>
+                  <item>Thomas <hi>St.</hi> Nicholas</item>
+                  <item>Roger Coats</item>
+                  <item>Edward Gill</item>
+               </list>
+               <list>
+                  <head>London.</head>
+                  <item>Robert Tichborn</item>
+                  <pb n="8" facs="tcp:66009:5"/>
+                  <item>John Ireton</item>
+                  <item>Samuell Moyer</item>
+                  <item>John Langley</item>
+                  <item>John Stone</item>
+                  <item>Henry Barton</item>
+                  <item>Praiſe-God Barboue</item>
+               </list>
+               <list>
+                  <head>Wales.</head>
+                  <item>Buſhy Manſel</item>
+                  <item>James Philips</item>
+                  <item>John Williams</item>
+                  <item>Hugh Courtney</item>
+                  <item>Richard Price</item>
+                  <item>John Brown</item>
+               </list>
+               <list>
+                  <head>Scotland.</head>
+                  <item>
+                     <hi>Sir</hi> James Hope</item>
+                  <item>Alex: Bredy</item>
+                  <item>John Swinton</item>
+                  <item>Will: Lockart</item>
+                  <item>Alex. Jefferies</item>
+               </list>
+               <list>
+                  <head>Ireland.</head>
+                  <item>
+                     <hi>Sir</hi> Robert King</item>
+                  <item>
+                     <hi>Col.</hi> John Hewſon</item>
+                  <item>
+                     <hi>Col.</hi> Henry Cromwel</item>
+                  <item>
+                     <hi>Col.</hi> John Clark</item>
+                  <item>Daniel Hutchinſon</item>
+                  <item>Vincent Gookyn</item>
+               </list>
+               <list>
+                  <head>Called in by the Parlia<g ref="char:EOLhyphen"/>ment ſince they ſate.</head>
+                  <item>
+                     <hi>Lord Gen:</hi> Cromwell</item>
+                  <item>
+                     <hi>Maj. Gen.</hi> Lambert</item>
+                  <item>
+                     <hi>Maj. Gen.</hi> Harriſon</item>
+                  <item>
+                     <hi>Maj. Gen.</hi> Deſborough</item>
+                  <item>
+                     <hi>Col.</hi> Mat. Tomlinſon.</item>
+               </list>
+               <list>
+                  <head>Councell of State.</head>
+                  <item>
+                     <hi>THe Lord Generall.</hi>
+                  </item>
+                  <item>
+                     <hi>Maj. Gen.</hi> Desbrow.</item>
+                  <item>
+                     <hi>Maj. Gen.</hi> Harriſon</item>
+                  <item>
+                     <hi>Mr.</hi> Major</item>
+                  <item>
+                     <hi>Col.</hi> Sydenham</item>
+                  <item>
+                     <hi>Sir</hi> Anthoney Aſhley Cooper</item>
+                  <item>
+                     <hi>Ald.</hi> Tichbourne</item>
+                  <item>
+                     <hi>Sir.</hi> Charles Wolſley</item>
+                  <item>
+                     <hi>Sir.</hi> Gilbert Pickering</item>
+                  <item>
+                     <hi>Mr.</hi> Carew</item>
+                  <item>
+                     <hi>Col.</hi> Jones</item>
+                  <item>
+                     <hi>Lord Viſcount</hi> Liſle</item>
+                  <item>
+                     <hi>Mr.</hi> Lawrence</item>
+                  <item>
+                     <hi>Col.</hi> Mountague</item>
+                  <item>
+                     <hi>Mr.</hi> Strickland</item>
+                  <item>
+                     <hi>Cap.</hi> Howard</item>
+                  <item>
+                     <hi>The Lord</hi> Eyre</item>
+                  <item>
+                     <hi>Sir</hi> William Roberts</item>
+                  <item>
+                     <hi>Mr.</hi> Sadler</item>
+                  <item>
+                     <hi>Sir</hi> Robert King</item>
+                  <item>
+                     <hi>Col.</hi> Henry Cromwell</item>
+                  <item>
+                     <hi>Dr.</hi> Goddard</item>
+                  <item>
+                     <hi>Col.</hi> Barton</item>
+                  <item>
+                     <hi>Sir</hi> William Brownlow</item>
+                  <item>
+                     <hi>Cap.</hi> Stone</item>
+                  <item>
+                     <hi>Col.</hi> George Fleetwood</item>
+                  <item>
+                     <hi>Col.</hi> James</item>
+                  <item>
+                     <hi>Mr.</hi> Anlaby</item>
+                  <item>
+                     <hi>Mr.</hi> Bennet</item>
+                  <item>
+                     <hi>Col.</hi> Rous</item>
+                  <item>
+                     <hi>Col.</hi> Bingham.</item>
+               </list>
+            </div>
+            <div type="act">
+               <pb n="7" facs="tcp:66009:5"/>
+               <head>An <hi>ACT</hi> Declaring what Offences ſhall be adjudged Treaſon.<figure/>
+               </head>
+               <p>BE it Enacted by this preſent Parliament, and by the Au<g ref="char:EOLhyphen"/>thority of the ſame, That if any perſon ſhall maliciouſly or adviſedly publiſh by writing, Printing, or openly declaring that the ſaid Government is Tyrannicall, uſurped, or unlaw<g ref="char:EOLhyphen"/>full; Or that the Commons in Parliament aſſembled are not the ſupream Authority of this Nation, or ſhall plot, contrive or endeavour to ſtir up or raiſe force againſt the preſent Go<g ref="char:EOLhyphen"/>vernment, or for the ſubverſion or alteration of the ſame, and ſhall declare the ſame by an open deed, that then every ſuch offence ſhall be taken, deemed and adjudged by Autho<g ref="char:EOLhyphen"/>rity of this Parliament to be high Treaſon.</p>
+               <p>That if any perſon ſhall maliciouſly and adviſedly plot or endeavour the ſubverſion of the ſaid Keepers of the Liberties of <hi>England,</hi> or the Councell of State, and the ſame ſhall declare by an open deed, or ſhall move any perſon or perſons for the doing thereof, or ſtir up the people to riſe againſt them, or either of them, they or either of their
+<pb n="8" facs="tcp:66009:6"/> Authorityes, every ſuch offence ſhall be taken, deemed, and declared to be high Treaſon.</p>
+               <p>If any perſon not being an Officer, Souldier, or member of the Army, ſhall plot, contrive, or endeavour to ſtir up any mutiny in the ſaid Army, or withdraw any Souldiers or Officers from their obedience to their Superiour Officers, or from the preſent Government as aforeſaid, or ſhall procure, invite, aid, or aſſiſt any Forreigners or ſtrangers to invade <hi>England</hi> or <hi>Ireland,</hi> or ſhall adhere to any Forces raiſed by the Enemies of the Parliament, Common-wealth, or Ke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>per; of the Liberties of <hi>England,</hi> or if any perſon ſhall coun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efeit the Great Seale of <hi>England</hi> for the time being, uſed and ap<g ref="char:EOLhyphen"/>pointed by Authority of Parliament, every ſuch offence ſhall be taken to be high Treaſon, and alſo forfeit unto the uſe of the Common-wealth, all and ſingular his or their Lands, Te<g ref="char:EOLhyphen"/>nements, and Heriditaments, Goods and Chattells: Provi<g ref="char:EOLhyphen"/>ded alwayes that no perſons ſhall be indicted and arraigned for any of the Offences mentioned in this Act, unleſſe ſuch Offenders ſhall be indicted or proſecuted for the ſame within one year after the Offence committed.</p>
+               <p>That if any perſon ſhall counterfeit the money of this Common-wealth, or ſhall bring any falſe money into this Land, counterfeit or other like to the money of this Com<g ref="char:EOLhyphen"/>mon-wealth, knowing the money to be falſe, to merchandize or make payment, in deceit of the people of this Nation: Or if any perſon ſhall hereafter falſly forge and counterfeit any ſuch kind of Coyn of Gold or Silver, as is not the proper Coyne of this Common-wealth, and is or ſhall be currant within this Nation by conſent of the Parliament, or ſuch as ſhall be by them authorized thereunto: Or ſhall bring from the parts beyond the Seas into this Common-wealth, or into any the dominions of the ſame, any ſuch falſe and counterfeit Coyne of money being currant within the ſame as is above ſaid, knowing the ſame to be falſe, to the intent to offer or make payment by merchandize or otherwiſe, or ſhall impaire, diminiſh, falſifie, clip, waſh, round, file, ſcale, or lighten for wicked lucre or gaines ſake, any the proper moneys of this Common-wealth, or any other Realm; allowed and ſuffered
+<pb n="9" facs="tcp:66009:6"/> to be currant: All ſuch Offences adjudged high Treaſon, their counſellours, procurers, aiders and abettors being con<g ref="char:EOLhyphen"/>victed ſhall ſuffer paines of death. It ſhall not extend to or be adjudged to make any corruption of blood to any of the Heires, or to make the wife to forfeit her Dour, or her title, action, or intereſt in the ſame. <hi>July</hi> 17. 1649.</p>
+            </div>
+            <div type="relation">
+               <head>A Relation of the Mutiny on <hi>Tueſday</hi> the <hi>22</hi> of <hi>Nov: 1653.</hi> in the New Exchange, of the Portugall Ambaſſadors Followers, <hi>&amp;c.</hi>
+                  <figure/>
+               </head>
+               <p>THis night was a great Mutiny at the <hi>New Exchange</hi> in the Strand, ſuch as hath ſcarce ever been the like: The buſineſſe upon the beſt information that I can have from thoſe who were preſent in part of the buſineſſe, and have conferred with others upon the whole, is this.</p>
+               <p>On Munday night (which was the night before) three of the Portugall Ambaſſadours family, whereof his brother was one, being at the New Exchange, they talking in <hi>French</hi> ſpake of ſuch diſcourſe of Tranſactions of ſome Engliſh Af<g ref="char:EOLhyphen"/>faires, which Col. <hi>Gerhard,</hi> Sir <hi>Gilbert Gerhards</hi> brother, un<g ref="char:EOLhyphen"/>derſtanding the French Tongue, hearing, told them very ci<g ref="char:EOLhyphen"/>villy,
+<pb n="10" facs="tcp:66009:7"/> that they did not repreſent the ſtories they ſpake of right; whereupon one of the Portugalls gave him the lie, up<g ref="char:EOLhyphen"/>on that they began to juſtle, and all three fell upon Col. <hi>Gerhard,</hi> and threw him down, and got upon him, but tho he be but a little man, yet he threw him off that was upon him, and ſo was buſtling with him a good while; there were ſome Gentlemen there, but knew not who it was they ſo aſ<g ref="char:EOLhyphen"/>ſaulted, and ſo ne'r medled with them, and yet one of the Portugalls with his Dagger ſtab'd Col. <hi>Gerhard</hi> in the ſhoul<g ref="char:EOLhyphen"/>der, and hurt him ſore; but afterwards Mr. <hi>Anfrazer</hi> ſpake to the Portugalls, that it was not civill nor handſome for ſo many to fall upon one, three to one being very unequall, and endeavoured to pull one of them off, and ſo to perſwade them to ceaſe, and thereby he came to ſee who it was they had aſſaulted, who finding it to be Col. <hi>Gerhard</hi> which he knew well, and ſeeing them ſtill purſue their rage upon him, he drew to relieve him, and after ſome buſtle the Portugalls went away, one of them having a cut upon his cheek; and that night afterwards near twenty of their Attendants came to the Exchange, and would have quarrel'd with any body, and ſome cuffing there was by ſome, but not much more that night, for it was late, and they returned home.</p>
+               <p>On Tueſday night, came about fifty of the Portugalls a<g ref="char:EOLhyphen"/>gaine to the New Exchange, of which number were the Am<g ref="char:EOLhyphen"/>baſſadours brother, and two Knights of <hi>Malta,</hi> and they were led on by a Portugall in Buffe, whom they call Cap<g ref="char:EOLhyphen"/>taine, one well known to ſome in the Exchange, and they had generally double Arms, all or moſt part of them ſwords and piſtolls, and coats of Male, or Armour, ſome one thing, ſome another, to preſerve their bodies from ſwords entring upon them. They had alſo two or three Coaches that brought Ammunition, in which were hand Granadoes and Bottles, and ſome little barrells of powder, and bullets, and other neceſſaries if occaſion was. They had alſo ſome Boats ready to attend them at the water ſide, if occaſion was for them alſo.</p>
+               <p>Thus they came with a reſolution to fall upon every Eng<g ref="char:EOLhyphen"/>liſh Gentleman they ſhould find in or about the Exchange;
+<pb n="11" facs="tcp:66009:7"/> and entring in with this equipage the people were exceeding<g ref="char:EOLhyphen"/>ly frighted. For firſt came in the Captaine in the Buffe, who led them, and after him the Portugall Ambaſſadors brother, and the Knights of <hi>Malta,</hi> and ſo the reſt, all with drawn ſwords, and in ſo furious a poſture, as if they intended to kill every body they met with, that ſtood before them.</p>
+               <p>Hereupon the people fled into the ſhops in the Exchange to ſhelter themſelves, and all that did not ſo they fell upon, though no man gave them the leaſt affront, yet they piſtol'd and cut, and wounded many.</p>
+               <p>Mr. <hi>Greneway</hi> a Gentleman of Grayes Inne, Son to the Lady <hi>Greneway</hi> was there with his Siſter and a Gentlewoman whom he was to have married, who deſired them two to ſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d up in a ſhop where he ſaw them ſafe, and they would have had him to have ſtaid with them, but he ſaid he would onely goe ſee what was the matter; but he was no ſooner parted from them, but immediately the word being given by the Portugall Captaine in Buff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which was <hi>Safa,</hi> which was the word when they were to fall on, without any af<g ref="char:EOLhyphen"/>front offered towards them, one of them piſtol'd him, and ſhot him in the head, and he is dead of his wounds: and ma<g ref="char:EOLhyphen"/>ny others t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey have dangerouſly wounded. Col. <hi>Mayo</hi> had twelve upon him at once, yet drew his ſword, and fought with them as long as he was able to hold his ſword in his hand, which being cut, he was forced to let his ſword fall, and then cut and wounded him in many places. Mr. <hi>Tho: Howard,</hi> Mr. <hi>Carter,</hi> and divers others were wounded paſſing by.</p>
+               <p>The Horſe at the <hi>Muſe</hi> had taken alarm before they retur<g ref="char:EOLhyphen"/>ned, and returning home, paſſing by the <hi>Muſe,</hi> ſome of the Horſe mo ing towards them, ſome of them diſcharged pi<g ref="char:EOLhyphen"/>ſtols towards the Horſe, and the reſt run home to the Ambaſ<g ref="char:EOLhyphen"/>ſadours houſe; but the Horſe guards took ſome of them and carried them into the <hi>Muſe,</hi> and ſent word thereof to the Lord Generall; and a party of horſe purſued them, and beſet the Ambaſſadors houſe. And Commiſ. Gen. <hi>Whalley</hi> ſent into the Ambaſſador, acquainted him with this horrible at<g ref="char:EOLhyphen"/>tempt and bloody murther of his Followers, and ſhewed him
+<pb n="12" facs="tcp:66009:8"/> his men they had taken priſoners, and required the chiefe of the reſt of them to be delivered in the hands of Juſtice, which the Ambaſſador was loath to doe. But ſeeing he could not baffle them, to ſtop the courſe of juſtce in ſo horrible a bloody buſineſſe as that had been, he delivered up his brother and one of the Knights of <hi>Malta,</hi> and ſome others, ſuch as they had then information was chiefe, and promiſed to ſecure the reſt to be forth-coming any of them when they ſhould be de<g ref="char:EOLhyphen"/>manded. After which the Ambaſſador made his Addreſſe to the Lord Generall, and chiefly for his brother, but his Excel<g ref="char:EOLhyphen"/>lency told him that it did concern the publick, and therefore his Addreſſes muſt be to the Parliament and Councell of State. It is ſuch a horrible buſineſſe that his Excellency would not meddle with him in it.</p>
+               <p>The Portugals that are in cuſtody are priſoners at <hi>Jameſes,</hi> and the buſineſſe is under Examination before the Councell of State.</p>
+            </div>
+            <div type="declaration">
+               <head>For his Highneſs the Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+               </head>
+               <head type="sub">The Declaration, with the humble Addreſſe of the Generalls, and the ſeverall Commanders preſent in the Fleet, by them ſeverally ſubſcribed.</head>
+               <p>THat theſe Nations of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> having been for ſome years like the Buſh which burned, but is not conſumed: And though the Nations round about us ſtand gazing on to ſee us made a deſolation, as well as a hiſſing unto them; yet we are hitherto by the mighty power of the Lord, and his wonderfull out-goings amongſt us, made rather an aſtoniſhment in our preſervation, then a reproach, by our ruine and devaſtation.</p>
+               <p>In which great Work of the Lord we acknowledge with thankfulneſſe your Highneſſe hath been a glorious Inſtru<g ref="char:EOLhyphen"/>ment,
+<pb n="13" facs="tcp:66009:8" rendition="simple:additions"/> and hath undergone many hardſhips and hazard of all that was near and dear unto you, even to life it ſelfe; and underſtanding by providence your Highneſſe is intruſted with, and hath excepted of the Protection of this Common-wealth in the Government thereof.</p>
+               <p>We are in hopes that the Lord intends a ſettlement of Peace to theſe poor diſtracted Nations, and that our ſelves with all the people of the Lord ſhall enjoy and partake of the ſame under your Highneſſe Prot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction, according to the Rule of the Lord Jeſus. And therefore we have thought it neceſſary as a duty incumbent on us, to Declare that we ſhall willingly be obedient and faithfull to your Highneſs, in performance of your great Truſt, and alſo in the utmoſt hazzard of our lives (with what elſe is near and dear unto us) be ſerviceable unto you, in the ſtation the Lord hath placed you, againſt yours and the Common-wealths Enemies, in our ſeverall places and capacities, during our Employments.</p>
+               <p>And having had good teſtimony of your great affection and earning bow<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ls after the weale of Gods people, wee are emboldned an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncouraged in all humility to make this fol<g ref="char:EOLhyphen"/>lowing Addr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</p>
+               <p>That your <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hneſſe will be pleaſed to have a more ſpeci<g ref="char:EOLhyphen"/>all eye of fa<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> unto them above all others, in regard they are near and dear unto him, who is the Lord of Lords, and King of Kings, even our Lord Jeſus For which cauſe he is aſhamed to call them brethren; And doe humbly apprehend that their priviledges will be your priviledge. And to ac<g ref="char:EOLhyphen"/>count of them as of your greateſt Jewells, which will doubt<g ref="char:EOLhyphen"/>leſſe turne to your great advantage.</p>
+               <p>And hereby you will for time to come not onely ingage their hearts unto you, who in times paſt have not ſtood at a diſtance from you, but your Highneſſe will alſo ingage the great Jehovah, your and their Father, to be be a refuge, ſhield, and defence unto you, as well as an everlaſting reſt for you, when all the ſtorms of this Common-wealth ſhall ceaſe, which is and ſhall be the unfeigned prayers of,</p>
+               <closer>
+                  <signed>
+                     <hi>Your Highneſſe moſt humble and faithfull Servants.</hi> Signed by the Generalls and the ſeverall Commanders preſent in the Fleet.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:66009:9"/>
+               <p>
+                  <hi>Monday <hi>Dec. 12. 1653.</hi> It being moved, That the ſitting of this Parliament was not for the peace of the Common-wealth; and that therefore it was requiſite to deliver up unto the Lord Generall <hi>Cromwell</hi> the powers which they received from him; and ſeconded by ſeverall other Members, and the Speaker with many of the Members departed to <hi>Whitehall,</hi> being the greater number, and did by a writing under their hands reſigne unto his Excel<g ref="char:EOLhyphen"/>lency their ſaid powers.</hi>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+            </div>
+            <div type="part">
+               <head>Saturday, <hi>Decemb.</hi> 10. 1653.</head>
+               <p>The Parliament this day reſumed the Debate upon the Report made this day from the Committee of Tythes, which is as followes.</p>
+               <p n="1">1. That it be repreſented to the Parliament as the beſt way for ejecting ignorant, prophane, and ſcandalous Miniſters; That Commiſſioners be ſent from hence into all the Coun<g ref="char:EOLhyphen"/>ties, divided into ſix Circuits (beſides <hi>London</hi> and <hi>Middle<g ref="char:EOLhyphen"/>ſex</hi>) three Commiſſioners into each Circuit, to joyne with four or ſix in every County (and each riding in <hi>Yorkeſhire</hi> to be as a County) and that in every County the ſaid perſons or five of them (two of the Commiſſioners ſent from hence
+<pb n="15" facs="tcp:66009:9"/> being alway preſent) be impowred to eject all Miniſters (of that County) that are not of good behaviour, and ho<g ref="char:EOLhyphen"/>ly in converſation, or that are not apt and able to teach, or in teaching hold not forth the faithfull word, or be not dili<g ref="char:EOLhyphen"/>gent, or labour not in the word and doctrine; or be greedy of filthy lucre: And be alſo impowred to ſettle godly and able perſons to preach the Goſpell in all voyd places, and to unite two or three Pariſhes together, ſo that none be above three miles from the publick Meeting-place.</p>
+               <p n="2">2. That it be preſented to the Parliament That Dr. <hi>Arrowſmith,</hi> Col. <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffe,</hi> Maj. <hi>Haines,</hi> Mr. <hi>John Owen,</hi> Mr. <hi>Thomas Goodwyn,</hi> Mr. <hi>Ben</hi> of <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcheſter,</hi> Mr. <hi>Fair<g ref="char:EOLhyphen"/>clough</hi> the elder, Mr. <hi>Lockier,</hi> Mr. <hi>Caryl,</hi> Mr. <hi>Stephen Marſhall,</hi> Mr. <hi>Worthington,</hi> Mr. <hi>Turner,</hi> Mr. <hi>Tomes,</hi> Mr. <hi>Martin Holbech,</hi> Mr. <hi>Cradocke,</hi> Mr. <hi>Jeſſey,</hi> Mr. <hi>Arthur Barnidſton,</hi> Mr. <hi>William Greenhill.</hi> Col. <hi>Campfield,</hi> M<hi rend="sup">r</hi>. <hi>Dyke,</hi> Mr. <hi>Stalham,</hi> may be ſent Commiſſioners by three in a circuit for ejecting and ſetling Miniſters, according to the Rules preſcribed.</p>
+               <p n="3">3. That all ſuch as are or ſhall be approved for publick Preachers of the Goſpell in the publick meeting-places, ſhall have and enjoy the maintenance already ſetled by Law, and ſuch other encouragement as the Parliament hath already appointed, or hereafter ſhall appoint: And that where any ſcruple payment of Tithes, the three next Juſtices of the Peace, or two of them ſhall upon complaints call the par<g ref="char:EOLhyphen"/>ties concerned before them, and by the Oaths of witneſſes, ſhall duely apportion the value of the ſaid Tithes, to be paid either in money or Land, by them to be ſet out according to the ſaid value, to be held and injoyed by him that was to have the ſaid Tithes; and in caſe ſuch approved value be not duly paid or injoyed according to the Order of the ſaid Juſti<g ref="char:EOLhyphen"/>ces; the Tithes ſhall be paid in kind, and ſhall be recovered in any Court of Record.</p>
+               <p n="4">4. That upon hearing and conſidering what hath been offered to the Committee touching propriety in Tithes, of Incumbents, Rectors, Poſſeſſors of Donatives, or propriate Tithes. It is the opinon of this Committe, and reſolved
+<pb n="16" facs="tcp:66009:10"/> to be reported to the Parliament, that the ſaid perſons have a legall propriety in Tithes.</p>
+               <p>The Houſe having ſpent ſeverall dayes in debate of the whole Report, and eſpecially of the firſt of the four parts thereof; and the Queſtion being put, That this Houſe doth agree with the firſt clauſe of the Report, it paſſed in the Ne<g ref="char:EOLhyphen"/>gative.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Monday, Decemb.</hi> 12. 1653.</head>
+               <p>It being moved in the Houſe this day, That the ſitting of this Parliament any longer as now conſtituted, will not be for the good of the Common-wealth; and that therefore it was requ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſit to deliver up unto the Lord Generall <hi>Cromwell</hi> the powers which they received from him; and that mo<g ref="char:EOLhyphen"/>tion being ſeconded by ſeverall other members, the Houſe roſe, and the Speaker with many of the members of the Houſe, departed out of the Houſe to <hi>White-hall,</hi> where they, being the greater number of the members ſitting in Parliament, did by a writing under their hands reſigne to his Excellency their ſaid Powers, and Maſter Speaker, attended with the Members, did preſent the ſame to his Excellency accordingly.</p>
+               <p>His Excellency the Lord Generall <hi>Cromwel</hi> and his Coun<g ref="char:EOLhyphen"/>cell of Officers met this day, at which meeting, after a moſt excellent, wiſe, gracious, and pious Speech made by his Ex<g ref="char:EOLhyphen"/>cellency, full of Religion towards God, prudence towards the State, and love and care towards this diſtracted Nation, ſome things were tranſacted in order to a ſettlement, and ſweet compoſure; the union of all that fear the Lord is much deſired, that ſo we may ſit down comfortably under a ſafe and well grounded peace.</p>
+               <p>The late Parliament having upon their Diſſolution delive<g ref="char:EOLhyphen"/>red up the power which they received from his Excellency at their firſt ſitting by a writing under their Hands and Seals: his Excellency thereupon called a Councell of Officers, and adviſed with other perſons of interereſt in the Nation, how this great burden of Governing <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> with the Armies therein, and Navies at Sea, ſhould be born, and by whom; who after ſeverall days ſeeking of God, and adviſing therein, it was Reſolved, That a Councell of
+<pb n="17" facs="tcp:66009:10"/> godly able and diſcreet perſons ſhould be named conſiſting of twenty one: And that his Excellency ſhould be choſen Lord Protector of the three Nations. And on Friday laſt his Excel<g ref="char:EOLhyphen"/>lency came down to <hi>Weſt:</hi> and was inſtolled Lord Protector of the three Nations, the manner whereof was thus.</p>
+               <p>
+                  <hi>Decemb.</hi> 18. His Excellency the Lord Generall <hi>Cromwell</hi> about one of the cock in the afternoon, went from <hi>White-hall</hi> to <hi>Weſtminſter</hi> in his Coach, foot Souldiers being on both ſides the ſtreets all along, and in the Pallace at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> were many Souldiers both Horſe and Foot; his Ex<g ref="char:EOLhyphen"/>cellency was attended by the Lords Commiſſioners of the Great Seal of <hi>England,</hi> the Judges and Barons of the ſeverall Benches in their Robes, and after them the Councell of the Common-wealth: And the Lord Mayor and Aldermen of the City of <hi>London,</hi> in their Scarlet Gowns, with the Recor<g ref="char:EOLhyphen"/>der and Town-Clerk, all in their Coaches, who paſſed before his Excellency: and laſt of all came his Excellency in a black Suit and Cloak in his Coach, with his Life-Guard, and di<g ref="char:EOLhyphen"/>vers bare before him; and many of the chiefe Officers of the Army with their Cloaks, and Swords, and Hats on, paſſed on foot before and about his Coach.</p>
+               <p>In this equipage his Excellency, and Attendants came to <hi>Weſtminſterhall,</hi> where was a Chair placed in the High Court of Chancery; where being come, the Lords Commiſſioners of the Great Seal of <hi>England</hi> ſtood next to the Chair, the one on the one ſide, and the other on the other ſide, and next to the Lord Commiſſioner <hi>Liſle</hi> who ſtood on the left hand of the Chair, ſtood his Excellency (all being bare, and his Excellency alſo) on every ſide of the Chair; in the next place ſtood all the Judges and Barons on both ſides; and the Lord Mayor &amp; Aldermen on the right ſide of the Court, next unto the Judges and the Councell, and the chief Officers of the Army on the left ſide of the Court.</p>
+               <p>The Rules for this New Government were then read, which conſiſt of many particulars, expreſſed in an Inſtru<g ref="char:EOLhyphen"/>ment; the Inſtrument is large, which took up above halfe an hours reading, and was read by Mr. <hi>Jeſop,</hi> one of the Secre<g ref="char:EOLhyphen"/>taries of the Councell. After which, the Lord Commiſſioner
+<pb n="18" facs="tcp:66009:11"/> 
+                  <hi>Liſle</hi> read a Parchment in the nature of an Oath, to eng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge his Excellency to perform on his part, according to the Go<g ref="char:EOLhyphen"/>vernment before mentioned; During which t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me his Excel<g ref="char:EOLhyphen"/>lency held up his hand, and having beard it read accepted thereof, and ſubſcribed thereto in the face of the Court. Then the Lords Commiſſioners of the Great Seal, and the Judges, <hi>&amp;c.</hi> invited him to take poſſeſſion of the Chair, as Lord Protector of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> which he did, and ſate down with his head covered, the Court continu<g ref="char:EOLhyphen"/>ing all bare. The Lord Commiſſioners delivered up to his Highneſſe, the Purſe and Seals, and the Lord Mayor of <hi>London</hi> his Sword, which were preſently delivered to them back again by his Highneſſe; and then after a ſalute, the Court roſe.</p>
+               <p>Firſt came the Aldermen and Councell before his Highnes, from the Court to <hi>Weſtminſter-hall</hi> Gate, where the Coaches were; after them the Judges, then came the Commiſſioners of the Great Seal, one of them bearing the Purſe and Seals; and before his Highneſſe ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Life-Guard then four Serjeants of Arms with their Maces, one being the Mace of the City of <hi>London,</hi> the ſecond of the Chancery, the third of the Councell, and the other of the Parliament, born by the ſword bearer of <hi>London,</hi> Serjeant <hi>Middleton,</hi> Serjeant <hi>Dendy,</hi> and Serjeant <hi>Berkehead;</hi> and the Lord Mayor of the City of <hi>London</hi> went before his Highneſſe with the Sword, and the Officers of the Army about his perſon; and in the Pallace they took Coach at the Hall Gate, and returned to <hi>White-hall</hi> in the ſame equipage they went; the Lord Mayor rid bare with the Sword in the Boot of the Coach with his Highneſſe; and there were great Acclamations and ſhout<g ref="char:EOLhyphen"/>ings all along the ſtreets as they paſſed.</p>
+               <p>His Highneſſe the Lord Protector being returned to <hi>White<g ref="char:EOLunhyphen"/>hall,</hi> he went with his Attendants to the Banqueting Houſe, where they had an Exhortation made by Mr. <hi>Lockier,</hi> Chap<g ref="char:EOLhyphen"/>lain to his Highneſſe; which bing ended, they were dimiſ<g ref="char:EOLhyphen"/>ſed with three Vollies of ſhot by the Souldiers, between four and five a clock at night.</p>
+               <p>
+                  <hi>Decemb.</hi> 19. 1653. His Highneſs the Lord Protector, met with thoſe named of his Councell, in the Councell Chamber
+<pb n="19" facs="tcp:66009:11"/> at <hi>White-hall,</hi> it being the place where the Councell of State uſed to ſit and ſeverall things were Tranſacted in order to a ſettlement; and this following Proclamation was ordered to be Printed and publiſhed on the Monday following.</p>
+               <p>This day this Proclamation following was publiſhed at <hi>Westminſter</hi> and in the City of <hi>London,</hi> by divers Serjeants at Arms with their Maces. The Lord Mayor and Aldermen be<g ref="char:EOLhyphen"/>ing preſent at the <hi>Exchange,</hi> &amp;c.</p>
+            </div>
+            <div type="proclamation">
+               <head>By the Councell, <hi>A Proclamation.</hi>
+               </head>
+               <p>WHereas the late Parliament diſſolv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng themſelves, and reſigning their Powers and Authorities, the Go<g ref="char:EOLhyphen"/>vernment of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> by a Lord Protector, and ſucceſſive Trienniall Par<g ref="char:EOLhyphen"/>liaments, is now eſtabliſhed; and whereas <hi>Oliver Cromwell,</hi> Captain Generall of all the Forces of this Common-wealth, is declared Lord Protector of the ſaid Nations, and hath ac<g ref="char:EOLhyphen"/>cepted thereof: We have therefore thought it neceſſary (as we hereby doe) to make Publication of the Premiſes, and ſtrictly to charge and command all and every perſon and per<g ref="char:EOLhyphen"/>ſons, of what quality and condition ſoever, in any of the three Nations, to take notice hereof, and to conform and ſubmit themſelves to the Government ſo eſtabliſhed. And all Sheriffs, Mayors, Bailiffs, and other Publick Miniſters, and Officers, whom this may concern, are required to cauſe this Proclamation to be forthwith publiſhed in their reſpective Counties, Cities, Corporations, and Market Towns, to the end none may have cauſe to pretend ignorance in this be<g ref="char:EOLhyphen"/>ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe. <hi>Given at</hi> Whitehall <hi>this</hi> 16 <hi>day of Decem.</hi> 1653.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>December</hi> 21. 1653.</head>
+               <p>His Highneſſe, the Lord Protector, and the Councell be<g ref="char:EOLhyphen"/>ing thirteen in number, ſate in the Councell Chamber at <hi>White-hall,</hi> where his Highneſſe in a ſweet Speech to them, preſſed the Councell to act for God, and the peace and good of the Nations; and particularly recommended to them, to conſider and relieve the diſtreſſes of the poor and oppreſſed: And ſeverall things were Tranſacted in order to a quiet and peaceable ſettlement of theſe three Nations.</p>
+               <list>
+                  <pb n="21" facs="tcp:66009:12"/>
+                  <head>The Names of the Councell.</head>
+                  <item>Mr. <hi>Lawrence</hi> the Preſident.</item>
+                  <item>L. Viſcount <hi>Liſle.</hi>
+                  </item>
+                  <item>Maj. Ge. <hi>Lambert.</hi>
+                  </item>
+                  <item>Maj. G. <hi>Desbrow.</hi>
+                  </item>
+                  <item>Maj. Ge. <hi>Skippon.</hi>
+                  </item>
+                  <item>Col. <hi>Jones.</hi>
+                  </item>
+                  <item>Col. <hi>Sydenham.</hi>
+                  </item>
+                  <item>S<hi rend="sup">r</hi> 
+                     <hi>Gilb. Pickering.</hi>
+                  </item>
+                  <item>S<hi rend="sup">r</hi> 
+                     <hi>Charls Wolſley.</hi>
+                  </item>
+                  <item>Sir <hi>Anthoney Aſhley-Cooper.</hi>
+                  </item>
+                  <item>Mr. <hi>Rous.</hi>
+                  </item>
+                  <item>Mr. <hi>Strickland.</hi>
+                  </item>
+                  <item>Mr. <hi>Major.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="declaration">
+               <head>A Declaration for alteration of ſeverall Names and Forms heretofore uſed in Courts, <hi>&amp;c.</hi>
+               </head>
+               <p>OLIVER, Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging, having the exerciſe of the chief Magi<g ref="char:EOLhyphen"/>ſtracy, and the adminiſtration of Government within the ſaid Common-wealth, inveſted and eſtabliſhed in his Highneſſe, aſſiſted with a Councell, who have power untill the meeting of the next Parliament (which is to be on the third of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> next) to make Laws and Ordinances for the peace and welfare of theſe Nations, where it ſhall be necaſſary, which ſhall be binding and in force untill order ſhall be taken in Parliament concerning the ſame.</p>
+               <p>And the ſaid Lord Protector finding it to be moſt neceſſa<g ref="char:EOLhyphen"/>ry that ſome ſpeedy and effectuall courſe be taken for ſetling the Names and Forms to be uſed in Patents, Commiſſions, and proceedings in Courts of Juſtice, the ſaid L. Protector, by, and with the adviſe &amp; conſent of his ſaid Councell, and in purſuance of, and according to the power and truſt repoſed in him and them, doth declare and ordain, and be it by the Authority aforeſaid declared and ordained, That in all Courts of Law, Juſtice or Equity, and in all Writs, Grants, Patents, Commiſſions, Indictments, Informations, Suits, returns of Writs, and in all Fines, Recoveries, Exemplifications, Recog<g ref="char:EOLhyphen"/>nizances, Proces and Proceedings of Law, juſtice or equity within the ſaid Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, inſtead of the Name, Stile, Title, and Teſte (of the Keepers of the Liberty of <hi>England,</hi> by Authority of Parliament) heretofore uſed, that from and after the 26 of <hi>Decem.</hi> 1653. the Name, Stile,
+<pb n="22" facs="tcp:66009:12"/> Title, and Teſte of the Lord Protector for the time being, of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, ſhall be uſed, and no other, and the date ſhall be in the year of our Lord and no other. And that all Duties, Profits, Penalties, Iſſues, Fines, Amercements, and Forfeitures whatſoever, which heretofore were ſued for in the Name of the Keepers of the Liberty of <hi>England</hi> by Authority of Parliament, ſhall from and after the ſaid 26 of <hi>Decem.</hi> be proſecuted, ſued forth, and recovered in the ſaid name of the Lord Protector, for the time being, of the Common-wealth of <hi>England Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, and no other. And in all or any of the proceedings aforeſaid, where the words were, <hi>The Jurors for the Common-wealth,</hi> or, <hi>The Jurors for the Keepers of the Liberty of England by Authority of Parliament, do ſay, or preſent,</hi> from and after the 26 of <hi>Decem.</hi> it ſhall be, <hi>The Jurors for the Lord Protector of the Common-wealth of Eng<g ref="char:EOLhyphen"/>land, Scotland, and Ireland,</hi> &amp;c. <hi>doe ſay, preſent,</hi> and no o<g ref="char:EOLhyphen"/>ther, <hi>&amp;c.</hi> And it is further Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That in all Oaths to be given to any Grand or Petty Ju<g ref="char:EOLhyphen"/>ry, or to, or for any Witneſſes to give in Evidence to any ſuch Jury or Juries, and all other Oaths wherein the name of Kee<g ref="char:EOLhyphen"/>pers of the Liberty, <hi>&amp;c.</hi> was wont to be uſed, the ſame ſhall be given in the name of the Lord Protector inſtead of the name of the ſaid Keepers, <hi>&amp;c.</hi> any Law, Uſage, or Cuſtom, to the contrary in any wiſe notwithſtanding. And it is laſtly Ordained by the Authority aforeſaid, That ſuch Forms and courſe of proceedings, as was heretofore uſed in the name and time of the <hi>Keepers of the Liberty,</hi> &amp;c. in Cauſes criminal or civil, &amp; of which no alteration is made in this Ordinance, ſhall ſtand and continue to be ſo uſed and obſerved as formerly; &amp; that all Indictments, Preſentments, Inquiſitions, Commiſſions, &amp; Captions made with ſuch Alterations, Additions, or Omiſſi<g ref="char:EOLhyphen"/>ons as aforeſaid, or with ſuch other Omiſſions, Additions, or Alterations as ſhall be proper and neceſſary for making good of Indictments Preſentments, Commiſſions, Captions, &amp; In<g ref="char:EOLhyphen"/>quiſitions, and ſupplying the ſence and meaning thereof, ac<g ref="char:EOLhyphen"/>cording to the preſent Government of this Common-wealth
+<pb n="23" facs="tcp:66009:13"/> under the Lord Protector as aforeſaid, ſhall ſtand and be good and effectuall in Law to all intents and purpoſes, as if the ſame had been particularly herein named, any Law, Cuſtom or Uſage to the contrary in any wiſe notwithſtanding.</p>
+            </div>
+            <div type="oath">
+               <head>The Oath taken by his Highneſſe <hi>Oliver Cromwell,</hi> LORD PROTECTOR.</head>
+               <p>WHereas the major part of the laſt Parliament (judg<g ref="char:EOLhyphen"/>ing that their ſitting any longer, as then conſtituted, would not be for the good of this Com:) did d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſolve the ſame, and by a writing under their hands, dated the 12 day of this inſtant <hi>Dec.</hi> reſigned unto Me their powers and Authorities; And whereas it was neceſſary thereupon, That ſome ſpeedy courſe ſhould be taken for the ſettlement of theſe Nations upon ſuch a Baſis and foundation, as by the bleſſing of God, might be laſting ſecure Property, and anſwer thoſe great ends of Religion and liberty, ſo long contended for; And upon full and mature conſideration had of the Form of Govern<g ref="char:EOLhyphen"/>ment hereunto annexed, being ſatisfied that the ſame, through divine aſſiſtance, may anſwer the ends aforementioned: And having alſo been deſired, and adviſed, as well by ſeverall per<g ref="char:EOLhyphen"/>ſons of Intereſt and Fidelity in this Common-wealth, as the Officers of the Army, to take upon Me the Protection and Government of theſe Nations in the manner expreſſed in the ſaid Form of Government, I have accepted thereof, and do hereby declare My acceptance accordingly. And do promiſe in the preſence of God, that I will not violate, and infringe the matters and things contained therein, but to My power obſerve the ſame, and cauſe them to be obſerved: And ſhall in all other things, to the beſt of My underſtanding, Govern theſe Nations according to the Laws, Statutes, and Cuſtoms, ſeeking their Peace, and cauſing Juſtice and Law to be equally adminiſtred.</p>
+               <closer>
+                  <signed>O. CROMWEL.</signed>
+               </closer>
+               <postscript>
+                  <p>OLIVER CROMWEL, <hi>Captain Generall of all the Forces of this Common wealth, and now declared Lord Protector thereof, did this</hi> 16 <hi>day of</hi> Decem. 1653. <hi>ſign this Writing and ſolemnly promiſe, as is therein con<g ref="char:EOLhyphen"/>tained, in preſence of the Lords Commiſſioners of the Great Seal of</hi> Engl. <hi>who adminiſtred the ſame Oath, and of the Lord Mayor and Alderm. of the City of</hi> London, <hi>divers of the Judges of the Land, the Officers of State and Ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y, and many other perſons of Quality.</hi>
+                  </p>
+                  <pb facs="tcp:66009:13"/>
+                  <p>
+                     <figure>
+                        <head>His Excellencie Oliuer Cromwell Generall of all the Fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>der of England Scotland &amp; Ireland Chancelour of y<hi rend="sup">e</hi> Vniuerſity of Oxford <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Lord Protector of Eng: Scot &amp; Ire:</head>
+                        <byline>Tho: Ienner fecit</byline>
+                        <figDesc>portrait of Oliver Cromwell</figDesc>
+                     </figure>
+                  </p>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb n="24" facs="tcp:66009:14"/>
+               <head>The Government of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+               </head>
+               <p n="1">1. THat the Supre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Legiſlative Authority of the Com<g ref="char:EOLhyphen"/>mon-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging ſhall be, and reſide in One Perſon, and the people aſſembled in Parliament; the Stile of which perſon ſhall be Lord Protector of the Com<g ref="char:EOLhyphen"/>mon-wealth of <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+               </p>
+               <p n="2">2. That the exerciſe of the chiefe Magiſtracy and Admini<g ref="char:EOLhyphen"/>ſtration of the Government over the ſaid Countries and Do<g ref="char:EOLhyphen"/>minions, &amp; the people thereof, ſhall be in the Lord Protector, aſſigned with a Councell, the number whereof ſhall not ex<g ref="char:EOLhyphen"/>ceed 21, nor be leſſe then 13.</p>
+               <p n="3">3. That all Writs, Proces, Commiſſions, Patents, Grants, and other things, which now run in the name and ſtile of the Keepers of the Liberty of <hi>England</hi> by Authority of Parlia<g ref="char:EOLhyphen"/>ment, ſhall run in the Name and Stile of the Lord Protector, from whom, for the future, ſhall be derived all Magiſtracy and Honours in theſe three Nations; and ſhall have the po<g ref="char:EOLhyphen"/>wer of Pardons (e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cept in caſe of Muder and Treaſon) and benefit of all Forfeitures <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he publick uſe. And ſhall Go<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tions in all t<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gs by the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to theſe preſents, and the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p n="4">4. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>: ſit<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all diſ<g ref="char:EOLhyphen"/>poſe an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th by S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Land, for the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and goodli<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> conſent of Parliament And <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> advice and conſent of the ma<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> diſpoſe and order the Miſitia for the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Interva<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of Parliament.</p>
+               <p n="5">5. That the Lord Protector by the advice aforeſaid, ſhall direct in all things concerning the keeping and holding of a good correſpondency with Forreign Kings, Princes, &amp; States, and alſo with the conſent of the major part of the Councell, have the power of war and peace.</p>
+               <p n="6">
+                  <pb n="25" facs="tcp:66009:14"/>6. That the Laws ſhall not be altered, ſuſpended, abroga<g ref="char:EOLhyphen"/>ted, or repealed, nor any New Law made, nor any Tax, Charge, or Impoſition laid upon the people, but by common conſent in Parliament, ſave onely as is expreſſed in the thir<g ref="char:EOLhyphen"/>tieth Article.</p>
+               <p n="7">7. That there ſhall be a Parliament ſummoned to meet at <hi>Weſtminſter</hi> upon the third day of <hi>Septemb.</hi> 1654. and that ſucceſſively a Parliament ſhall be ſummoned once in every third year, to be accounted from the diſſolution of the pre<g ref="char:EOLhyphen"/>ceding Parliament.</p>
+               <p n="8">8. That neither the Parliament to be next ſummoned, nor any ſucceſſive Parliaments, ſhall, during the time of 5 months to be accounted from the day of their firſt meeting, be adjour<g ref="char:EOLhyphen"/>ned, prorogued or diſſolved without their own conſent.</p>
+               <p n="9">9. That as well the next as all other ſucceſſive Parliaments, ſhall be ſummoned and elected in manner hereafter expreſt; That is to ſay, the perſons to be choſen within <hi>Engl: Wales,</hi> the Iſles of <hi>Jerſey</hi> and <hi>Guernſey,</hi> and the Town of <hi>Berwick</hi> up<g ref="char:EOLhyphen"/>on <hi>Tweed,</hi> to ſit and ſerve in Parliament, ſhall be, and not ex<g ref="char:EOLhyphen"/>ceed the number of four hundred. The perſons to be choſen within <hi>Scotland</hi> to ſit and ſerve Parliament ſhall be, and not exceed the number of thirty. And the perſons to be choſen to ſit in Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liament for <hi>Ireland,</hi> ſhall be, and not exceed the number of thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty.</p>
+               <p n="10">10. That the perſons to be Elected to ſit in Parliament from time to time, for the ſeverall Counties of <hi>Engl: Wales,</hi> the Iſles of <hi>Jerſey</hi> and <hi>Guernſey,</hi> and the Town of <hi>Berwick</hi> up<g ref="char:EOLhyphen"/>on <hi>Tweed,</hi> and all places within the ſame reſpectively, ſhall be according to the proportions and numbers hereafter expreſ<g ref="char:EOLhyphen"/>ſed. That is to ſay,</p>
+               <p>For the Town of <hi>Bedford</hi> 1 County of <hi>Bedford</hi> 5. <hi>Abbing<g ref="char:EOLhyphen"/>ton</hi> 1 <hi>Reading</hi> 1 County of <hi>Berks</hi> 5. <hi>Buckingham</hi> 1 <hi>Aliſ<g ref="char:EOLhyphen"/>bury</hi> 1 <hi>Wiccomb</hi> 1 County of <hi>Bucks</hi> 5. <hi>Cambridge</hi> 1 Uni<g ref="char:EOLhyphen"/>verſity of <hi>Camb:</hi> 1 <hi>Ely</hi> 2 County of <hi>Cambridge</hi> 4. <hi>Cheſter</hi> 1 County of <hi>Chester</hi> 4. <hi>Launceſton</hi> 1 <hi>Truro</hi> 1 <hi>Penrin</hi> 1 <hi>Eaſt<g ref="char:EOLhyphen"/>low</hi> and <hi>Weſtlow</hi> 1 County of <hi>Cornwall</hi> 8. <hi>Carliſle</hi> 1 County of <hi>Cumberland</hi> 2. <hi>Derby</hi> 1 County of <hi>Derby</hi> 4. <hi>Exceſter</hi> 2 <hi>Plimouth</hi> 2 <hi>Dartmouth, Clifton,</hi> &amp; <hi>Hardneſſe</hi> 1 <hi>Totnes</hi> 1 <hi>Barn<g ref="char:EOLhyphen"/>ſtable</hi>
+                  <pb n="26" facs="tcp:66009:15"/> 1 <hi>Tiverton</hi> 1 <hi>Honyton</hi> 1 County of <hi>Devon</hi> 11. <hi>Dor<g ref="char:EOLhyphen"/>cheſter</hi> 1 <hi>Weymouth</hi> &amp; <hi>Melcomb-Regis</hi> 1 <hi>Lyme-Regis</hi> 1 <hi>Pool</hi> 1 County of <hi>Dorcet</hi> 6. <hi>Durham</hi> 1 County of <hi>Durh:</hi> 2. <hi>York</hi> 2 <hi>Kinſton</hi> upon <hi>Hull</hi> 1 <hi>Beverley</hi> 1 <hi>Scarborough</hi> 1 <hi>Richmond</hi> 1 <hi>Leeds</hi> 1 <hi>Hallifax</hi> 1 Cou: of <hi>York,</hi> Weſt-Riding 6 Eaſt-Riding 4. North-Riding 4. <hi>Maldon</hi> 1 <hi>Colcheſter</hi> 2 Cou: of <hi>Eſſex</hi> 13. <hi>Glouceſter</hi> 2 <hi>Tewksbury</hi> 1 <hi>Cirenceſter</hi> 1 County of <hi>Glouceſter</hi> except the ſaid City 5. <hi>Hereford</hi> 1 <hi>Leompster</hi> 1 County of <hi>Hereford</hi> 4. St. <hi>Alban</hi> 1 <hi>Hartford</hi> 1 County of <hi>Hartford</hi> 5. <hi>Huntington</hi> 1 Cou: of <hi>Huntington</hi> 3. <hi>Canterbury</hi> 2 <hi>Rocheſter</hi> 1 <hi>Maidston</hi> 1 <hi>Dover</hi> 1 <hi>Sandwich</hi> 1 <hi>Quinborough</hi> 1 County of <hi>Kent</hi> 11. <hi>Preſton</hi> in <hi>Andernes</hi> 1 <hi>Lancaſter</hi> 1 <hi>Liverpool</hi> 1 <hi>Man<g ref="char:EOLhyphen"/>cheſter</hi> 1 County of <hi>Lancaſter</hi> 4. <hi>Leiceſter</hi> 2 County of <hi>Lei<g ref="char:EOLhyphen"/>ceſter</hi> 4. <hi>Lincoln</hi> 2 <hi>Boſton</hi> 1 <hi>Grantham</hi> 1 <hi>Stamford</hi> 1 <hi>Grimsby</hi> 1 County of <hi>Lincoln</hi> 10. <hi>Weſtminſter</hi> 2 County of <hi>Middleſex</hi> 4 City of <hi>London</hi> 6. County of <hi>Monmouth</hi> 3. <hi>Norwich</hi> 2 <hi>Lyn-Regis</hi> 2 <hi>Yarmouth</hi> 2 County of <hi>Norfolk</hi> 10. <hi>Peterborough</hi> 1 <hi>Northampton</hi> 1 County of <hi>Northampton</hi> 6. <hi>Nottingham</hi> 2 County of <hi>Nottingham</hi> 4, <hi>Newcaſtle</hi> upon <hi>Tine</hi> 1 <hi>Berwick</hi> 1 County of <hi>Northumberland</hi> 3. <hi>Oxford</hi> 1 Univerſity of <hi>Oxf:</hi> 1 <hi>Woodſtock</hi> 1 County of <hi>Oxf:</hi> 5. County of <hi>Rutland</hi> 2. <hi>Shrewſ<g ref="char:EOLhyphen"/>bury</hi> 2 <hi>Bridgnorth</hi> 1 <hi>Ludlow</hi> 1 County of <hi>Salop</hi> 4. <hi>Litchfield</hi> 1 <hi>Stafford</hi> 1 <hi>Newcaſtle</hi> on the Line 1 County of <hi>Stafford</hi> 3. <hi>Taunton</hi> 2 <hi>Bath</hi> 1 <hi>Wells</hi> 1 <hi>Bridgwater</hi> 1 Cou: of <hi>Somerſet</hi> 11. City of <hi>Briſtol</hi> 2. <hi>Wincheſter</hi> 1 <hi>Southampton</hi> 1 <hi>Pertſmouth</hi> 1 Iſle of <hi>Wight</hi> 2. <hi>Andevor</hi> 1 County of <hi>Southamp:</hi> 8. <hi>Ipſwich</hi> 2 Burrough of <hi>Bury</hi> St. <hi>Edmonds</hi> 2 <hi>Dunwich</hi> 1 <hi>Sudbury</hi> 1 Coun<g ref="char:EOLhyphen"/>ty of <hi>Suffolk</hi> 10. <hi>Southwark</hi> 2 <hi>Gilford</hi> 1 <hi>Rygate</hi> 1 County of <hi>Surrey</hi> 6. <hi>Chicheſter</hi> 1 <hi>Lewis</hi> 1 <hi>Eaſt-greenſtead</hi> 1 <hi>Arundel</hi> 1 <hi>Rye</hi> 1 Coun: of <hi>Suſſex</hi> 9 Coun: of <hi>Weſtmorland</hi> 2. <hi>Coventry</hi> 2 <hi>Warwick</hi> 1 County of <hi>Warwick</hi> 4. <hi>Worceſter</hi> 2. County of <hi>Worceſter</hi> 5. <hi>Sarum</hi> 2 <hi>Marleborough</hi> 1 <hi>Devizes</hi> 1 County of <hi>Wilts</hi> 10. Coun: of <hi>Brecon</hi> 2. County of <hi>Cardigan</hi> 2. County of <hi>Carmathen</hi> 2. Coun: of <hi>Carnarven</hi> 2. Coun: of <hi>Denbigh</hi> 2. County of <hi>Flint</hi> 2. Town of <hi>Cardiffe</hi> 1. Coun: of <hi>Clamorgan</hi> 2. Coun: of <hi>Merionoth</hi> 1. Coun: of <hi>Montgomery</hi> 2. <hi>Haverford weſt</hi> 1. County of <hi>Pembrook</hi> 2. County of <hi>Radnor</hi> 2.</p>
+               <p>The diſtribution of the perſons to be choſen for <hi>Scotland</hi>
+                  <pb n="27" facs="tcp:66009:15"/> and <hi>Ireland,</hi> ſhall be according to ſuch proportions and num<g ref="char:EOLhyphen"/>ber, as ſhall be agreed upon, and declared by the Lord Pro<g ref="char:EOLhyphen"/>tector and the major part of the Councell, before the ſending forth Writs of Summons for the next Parliament, <hi>&amp;c.</hi>
+               </p>
+               <p n="11">11. That the Summons to Parliament ſhall be by Writ under the Great Seal of <hi>England,</hi> directed to the Sheriffs of the ſeverall and reſpective Counties, with ſuch alteration as may ſuit with the preſent Government, to be made by the Lord Protector and his Councel, which the Chancellor, Kee<g ref="char:EOLhyphen"/>per, or Commiſſioners of the Great Seal, ſhall iſſue and ſend abroad by Warrant from the Lord Protector. If the Lord Protector ſhall not give Warrant for iſſuing of Writs of Sum<g ref="char:EOLhyphen"/>mons for the next Parliament, before the 1. of <hi>June,</hi> 1654. o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the Trienniall Parliaments before the 1. day of <hi>Auguſt</hi> in every third year, to be accounted as aforeſaid, That then the Chancellor, Keeper, or Commiſſioners of the Great Seal for the time being, ſhall without any warrant or direction within ſeven dayes after the ſaid 1. day of <hi>June,</hi> 1654. ſeal, iſſue, and ſend abroad Writs of Summons, <hi>&amp;c.</hi>
+               </p>
+               <p n="12">12. That at the day and place of Elections, the Sheriff of each County, and the ſaid Mayors, Sheriffs, Bailiffs, and other head-Officers within their Cities. Towns, Burroughs and pla<g ref="char:EOLhyphen"/>ces reſpectively, ſhall take view of the ſaid Elections, and ſhall make return into the Chancery within twenty dayes after the ſaid Elections, <hi>&amp;c.</hi> wherein ſhall be contained, that the per<g ref="char:EOLhyphen"/>ſons elected ſhall not have power to alter the Government as it is hereby ſetled in one ſingle perſon and a Parliament.</p>
+               <p n="13">13. That the Sheriff, who ſhall wittingly and willingly make any falſe return or neglect his duty, ſhall incur the pe<g ref="char:EOLhyphen"/>nalty of two thouſand Marks.</p>
+               <p n="14">14. That all and every perſon and perſons, who have aid<g ref="char:EOLhyphen"/>ed, adviſed, aſſiſted or abetted in any war againſt the Parlia<g ref="char:EOLhyphen"/>ment ſince the firſt day of <hi>January,</hi> 1641. (unleſſe they have been ſince in the ſervice of the Parliament, and given ſignall teſtimony of their good affection thereunto) ſhall be diſabled and uncapable to be elected, or to give any Vote in the E<g ref="char:EOLhyphen"/>lection of any Members to ſerve in the next Parliament, or in the three ſucceeding Trienniall Parliaments.</p>
+               <p n="15">
+                  <pb n="28" facs="tcp:66009:16"/>15. That all ſuch, who have adviſed, aſſiſted, or abetted the Rebellion of <hi>Ireland,</hi> ſhall be diſabled and uncapable for ever to be Elected, or to give any Vote in the election of any Mem<g ref="char:EOLhyphen"/>ber to ſerve in Parliament; as alſo all ſuch who doe or ſhall profeſſe the Roman Catholick Religion.</p>
+               <p n="16">16. That all Votes and Elections given or made contrary, or not according to theſe Qualifications, ſhall be null and void: And if any perſon who is hereby made uncapable, ſhall give his Vote for Election of Members to ſerve in Parliament, ſuch perſon ſhall loſe and forfeit one full years value of his reall Eſtate, and one full third part of his perſonall Eſtate.</p>
+               <p n="17">17. That the perſons who ſhall be elected to ſerve in Par<g ref="char:EOLhyphen"/>liament, ſhall be ſuch (and no other then ſuch) as are perſons of known integrity, fearing God, and of good converſation, and being of the age of 21 years.</p>
+               <p n="18">18. That all and every perſon and perſons ſeized or poſſeſ<g ref="char:EOLhyphen"/>ſed to his own uſe, of any eſtate reall or perſonall, to the value of 200 <hi>l.</hi> and not within the aforeſaid exceptions ſhall be ca<g ref="char:EOLhyphen"/>pable to elect Members to ſerve in Parliam. for Counties.</p>
+               <p n="19">19. That the Chancellor, Keeper, or Commiſſioners of the Great Seal, ſhall be ſworn before they enter into their Offices, truly and faithfully to iſſue forth, and ſend abroad Writs of Summons to Parliaments at the times and in the manner be<g ref="char:EOLhyphen"/>fore expreſſed: And in caſe of neglect or failer to iſſue and ſend abroad writs accordingly, he or they ſhall for every ſuch offence be guilty of High Treaſon, and ſuffer the paines and penalties thereof.</p>
+               <p n="20">20. That in caſe writs be not iſſued out as is before expreſt, but that there be a neglect therein, fifteen days after the time wherein the ſame ought to be iſſued out by the Chancellor, Keeper or Commiſſioners of the great Sea that then the Par<g ref="char:EOLhyphen"/>liament ſhall, as often as ſuch failer ſhall happen aſſemble and be held at <hi>Weſtminſter,</hi> in the uſuall place, at the times pre<g ref="char:EOLhyphen"/>fixt, <hi>&amp;c.</hi>
+               </p>
+               <p n="21">21. That the Clerk, called the Clerk of the Commonwealth, in Chancery for the time being and all others, who ſhall after<g ref="char:EOLhyphen"/>wards execute that Office, to whom the Returns ſhal be made, ſhall for the next Parliament, &amp; the two ſucceeding Trieniall
+<pb n="29" facs="tcp:66009:16"/> Parliaments, the next day after ſuch Return, certifie the names of the ſeveral perſons ſo returned, and of the places for which he and they were choſen reſpectively, unto the Councel who ſhall peruſe the ſaid Returns, and examine whether the per<g ref="char:EOLhyphen"/>ſons ſo Elected and Returned, be ſuch as is agreeable to the Qualifications, &amp; not diſabled to be Elected: And that every perſon and perſons being ſo duly Elected, and being approved of by the major part of the Councell to be perſons not diſa<g ref="char:EOLhyphen"/>bled, but qualified as aforeſaid, ſhall be eſteemed a Member of Parliament, and be admitted to ſit in Parliament, and not otherwiſe.</p>
+               <p n="22">22 That the perſons choſen and aſſembled in manner a<g ref="char:EOLhyphen"/>foreſaid, or any ſixty of them, ſhall be, and be deemed the Parliament of <hi>England, Scotland,</hi> &amp; <hi>Ireland,</hi> and the Supream Leg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tive power to be and reſide in the Lord Protector and ſuch Parliament, <hi>&amp;c.</hi>
+               </p>
+               <p n="23">23. That the Lord Protector, with the advice of the major pa t of the Councel, ſhall at any other time then is before ex<g ref="char:EOLhyphen"/>preſt, when the neceſſities of the State ſhall require it, ſummon Parliaments in manner before expreſt, which ſhall not be ad<g ref="char:EOLhyphen"/>journed, prorogued, or diſſolved without their own conſent, during the firſt three months of their ſitting. And in caſe of future war with any Forreign State, a Parliam. ſhall be forth<g ref="char:EOLhyphen"/>with ſummoned for their advice concerning the ſame.</p>
+               <p n="24">24. That all Bills agreed unto by the Parliament, ſhall be preſented to the Lord Protector for his conſent; and in caſe he ſhall not give his conſent thereto, within twenty dayes after they ſhall be preſented to him, or give ſatisfaction to the Par<g ref="char:EOLhyphen"/>liament within the time limited; That then upon Declara<g ref="char:EOLhyphen"/>tion of the Parliament, that the Lord Protector hath not con<g ref="char:EOLhyphen"/>ſented nor given ſatisfaction, ſuch Bills ſhall paſſe into, and become Laws, although he ſhall not give his conſent there<g ref="char:EOLhyphen"/>unto; provided ſuch Bills contain nothing in them contrary to the matters contained in theſe preſents.</p>
+               <p n="25">25. That <hi>Phillip</hi> L. Viſcount <hi>Liſle, Charls Fleetwood</hi> Eſq; <hi>John Lambert</hi> Eſq; Sir <hi>Gilbert Pickering</hi> Baronet, Sir <hi>Charls Woolſley</hi> Bar. Sir <hi>Anthony Aſhley-Cooper</hi> Bar. <hi>Edw: Montagu</hi> Eſq; <hi>John Desbrow</hi> Eſq; <hi>Walter Strickland</hi> Eſq; <hi>Henry Law<g ref="char:EOLhyphen"/>rence</hi>
+                  <pb n="30" facs="tcp:66009:17"/> Eſq; <hi>William Sydenham</hi> Eſq; <hi>Phillip Jones</hi> Eſq; <hi>Rich: Major</hi> Eſq; <hi>Francis Rous</hi> Eſq; <hi>Phillip Skippon</hi> Eſq; or any ſeven of them ſhall be a Councell for the purpoſes expreſt in this Writing; and upon the death or other removall of any of them, the Parliament ſhall nominate ſix perſons of Ability, Integrity, and fearing God, for every one that is dead or re<g ref="char:EOLhyphen"/>moved, out of which the major part of the Councell ſhall elect two, and preſent them to the Lord Protector, of which he ſhall elect one, <hi>&amp;c.</hi>
+               </p>
+               <p n="26">26. That the Lord Protector and the major part of the Councell aforeſaid, may at any time before the meeting of the next Parliament, add to the Councell ſuch perſons as they ſhall think fit; provided the number of the Councell be not made thereby to exceed 21, and the <hi>Quorum</hi> to be propor<g ref="char:EOLhyphen"/>tioned accordingly by the Lord Protector and the major part of the Councell.</p>
+               <p n="27">27. That a conſtant yearly Revenue ſhall be raiſed, ſetled and eſtabliſhed for maintaining of ten thouſand Horſe and Dragoons, and twenty thouſand Foot, in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> for the defence and ſecurity thereof, and alſo for a convenient number of Ships for guarding of the Seas; beſids two hundred thouſand pound <hi>per annum</hi> for defraying the o<g ref="char:EOLhyphen"/>ther neceſſary Charges for adminiſtration of Juſtice, and other expences of the Government; which Revenue ſhall be raiſed by the Cuſtoms and ſuch other wayes and means as ſhall be agreed upon by the Lord Protector &amp; the Councel, and ſhall not be taken away or diminiſht, nor the way agreed upon for raiſing the ſame altered, but by the conſent of the Lord Pro<g ref="char:EOLhyphen"/>tector and the Parliament.</p>
+               <p n="28">28. That the ſaid yearly Revenue ſhall be paid into the publick Treaſury, &amp; ſhall be iſſued out for the uſes aforeſaid.</p>
+               <p n="29">29. That in caſe there ſhall not be cauſe hereafter to keep up ſo great a Defence at Land or Sea, but that there be an a<g ref="char:EOLhyphen"/>batement made thereof, the mony which will be ſav'd there<g ref="char:EOLhyphen"/>by, ſhall remain in bank for the publick Service, and not be imployed to any other uſe but by conſent of Parliament; or in the intervals of Parliament by the Lord Protector and major part of the Councell.</p>
+               <p n="30">
+                  <pb n="31" facs="tcp:66009:17"/>30. That the raiſing of money for defraying the charge of preſent extraordinary Forces both at Land and Sea, in reſpect of the preſent wars, ſhall be by conſent in Parliament and not otherwiſe: Save onely that the Lord Protector, with the con<g ref="char:EOLhyphen"/>ſent of the major part of the Councell, for preventing the diſ<g ref="char:EOLhyphen"/>orders and dangers which may otherwiſe fall out both at Sea and Land, ſhall have power untill the meeting of the firſt Par<g ref="char:EOLhyphen"/>liament, to raiſe money for the purpoſes aforeſaid, and alſo to make Lawes and Ordinances for the peace and welfare of theſe Nations, where it ſhall be neceſſary, which ſhall be binding and in force, untill Order ſhall be taken in Parl. con<g ref="char:EOLhyphen"/>cerning the ſame.</p>
+               <p n="31">31. That the Lands, Tenements, Rents, Royalties, Juriſ<g ref="char:EOLhyphen"/>dictions and Hereditaments which remain yet unſold or un<g ref="char:EOLhyphen"/>diſpoſed of by Act or Ordinance of Parliament, belonging to the Common-wealth (except the Forreſts and Chaſes, and the Honors and Mannors belonging to the ſame; the Lands of the Rebels in <hi>Ireland,</hi> lying in the four Counties of <hi>Dublin, Corke, Kildare,</hi> &amp; <hi>Katerlaugh,</hi> the Lands forfeited by the peo<g ref="char:EOLhyphen"/>ple of <hi>Scotland</hi> in the late wars, and alſo the Lands of Papiſts and Delinquents in <hi>England</hi> who have not yet compounded) ſhall be veſted in the Lord Protector, to hold, to him and his Succeſſors Lord Protectors of theſe Nations, and ſhall not be aliened but by conſent in Parliament. And all Debts, Fines, Iſſues, Amerciaments, penalties and profits, certain and ca<g ref="char:EOLhyphen"/>ſuall, due to the Keepers of the Liberties of <hi>Engl:</hi> by Autho<g ref="char:EOLhyphen"/>rity of Parliament, ſhall be due to the Lord Protector, and be payable unto his publick Receipt, and ſhall be recovered and proſecuted in his Name.</p>
+               <p n="32">32. That the Office of the Lord Protector over theſe Nati<g ref="char:EOLhyphen"/>ons, ſhall be Elective and not Hereditary; and upon the death of the Lord Protector, another fit perſon ſhall be forthwith Elected, to ſucceed him in the Government, which Election ſhall be by the Councell, <hi>&amp;c.</hi> Provided that none of the Chil<g ref="char:EOLhyphen"/>dren of the late King, nor any of his Line or Family, be Ele<g ref="char:EOLhyphen"/>cted to be Lord Protector or other chief Magiſtrate over theſe Nations, or any the Dominions thereto belonging. And un<g ref="char:EOLhyphen"/>till the aforeſaid Election be paſt, the Councell ſhall take care
+<pb n="32" facs="tcp:66009:18"/> of the Government, and adminiſter in all things as fully as the Lord Protector, or the Lord Protector and Councell are inabled to doe.</p>
+               <p n="33">33. That <hi>O. Cromwell,</hi> Captain Generall of the Forces of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> ſhall be, and is hereby decla<g ref="char:EOLhyphen"/>red to be Lord Protector of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, for his life.</p>
+               <p n="34">34. That the Chancellor, Keeper, or Commiſſioners of the Great Seal, the Treaſurer, Admirall chiefe Governors of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland,</hi> and the chiefe Juſtices of both the Benches, ſhall be choſen by the approbation of Parliament; and in the intervalls of Parl. by the approbation of the major part of the Councell, to be afterwards approved by the Parl.</p>
+               <p n="35">35. That the Chriſtian Religion contained in the Scrip<g ref="char:EOLhyphen"/>tures be held forth &amp; recommended as the publick profeſſion of theſe Nations; and that as ſoon as may be, a proviſion, leſſe ſubject to ſcruple and contention, and more certain then the preſent, be made for the encouragement and maintenance of able and painfull Teachers, for inſtructing the people, and for diſcovery and confutation of Error, Hereſie, and what<g ref="char:EOLhyphen"/>ever is contrary to ſound Doctrine: And that untill ſuch proviſion be made, the preſent maintenance ſhall not be ta<g ref="char:EOLhyphen"/>ken away nor impeached.</p>
+               <p n="36">36. That to the publick profeſſion held forth, none ſhall be compelled by penalties or otherwiſe, but that endeavors be uſed to win them by ſound Doctrine, and the example of a good converſation.</p>
+               <p n="37">37. That ſuch as profeſſe Faith in God by Jeſus Chriſt (though differing in judgement from the Doctrine, worſhip, or Diſcipline publickly held forth) ſhall not be reſtrained from, but ſhall be protected in the profeſſion of the Faith, and exerciſe of their Religion; ſo as they abuſe not this liberty, to the civill injury of others, and to the actuall diſturbance of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ublick peace on their parts, provided this liberty be not extended to popery nor prelacy, nor to ſuch as under the pro<g ref="char:EOLhyphen"/>feſſion of Chriſt hold forth and practiſe licentiouſneſſe.</p>
+               <p n="38">38. That all Laws, Statutes, Ordinances and Clauſes in any
+<pb n="33" facs="tcp:66009:18"/> Law, Statute and Ordinance to the contrary of the aforeſaid Liberty, ſhall be eſteemed as null and void.</p>
+               <p n="39">39. That the Acts and ordinances of Parliament, made for the ſale or other diſpoſition of the Lands, Rents and Heredi<g ref="char:EOLhyphen"/>taments of the late King, Queen and Prince, of Arch-Biſhops and Biſhops, <hi>&amp;c.</hi> Deans and Chapters, the Lands of Delin<g ref="char:EOLhyphen"/>quents, and Foreſt Lands, or any of them, or of any other Lands, Tenements, Rents and Heriditaments belonging to the Common-wealth, ſhall no wayes be impeached or made invalid, but ſhall remain good and firme: And that the Secu<g ref="char:EOLhyphen"/>rities given by Act and Ordinance of Parliament for any ſum or ſums of mony, by any of the ſaid Lands, the Exciſe, or by any other publick Revenue; and alſo the Securities given by the publick Faith of the Nation, and the engagement of the publick Faith for ſatisfaction of Debts and Damages, ſhall re<g ref="char:EOLhyphen"/>main firm and good, and not be made voyd and invalid upon any pretence whatſoever.</p>
+               <p n="40">40. That the Articles given to, or made with the Enemy, and afterwards confirmed by Parliament, ſhall be performed and made good to the perſons concerned therein. And that ſuch appeals, as were depending in the laſt Parliament, for re<g ref="char:EOLhyphen"/>liefe concerning Bils of ſale of Delinquents Eſtates, may be heard and determined the next Parl. any thing in this writing, or otherwiſe to the contrary notwithſtanding.</p>
+               <p n="41">41. That every ſucceſſive L. Protector over theſe Nations, ſhall take and ſubſcribe a ſolemn Oath, in the preſence of the Councell, &amp; ſuch others as they ſhall call to them that he will ſeek the peace, quiet, and welfare of theſe Nations, cauſe law and Juſtice equally to be adminiſtred, and that he will not violate or infringe the matters and things contained in this writing; and in all other things will to his power, and to the beſt of his underſtanding, govern theſe Nations according to the Laws, Statutes, and Cuſtoms.</p>
+               <p n="24">42. That each perſon of the Councel ſhall, before they en<g ref="char:EOLhyphen"/>ter upon their Truſt, take, &amp; ſubſcribe an Oath, That they will be true and faithfull to their Truſt, according to the beſt of their knowledge; and that in the election of every ſucceſſive Lord Protector, they ſhall proceed therin impartially, and do nothing therein for any promiſe, fear, favour, or reward.</p>
+            </div>
+            <div type="part">
+               <pb n="34" facs="tcp:66009:19"/>
+               <head>
+                  <hi>Aprill</hi> 25. 1654. Four Ordinances were publiſhed touching <hi>Scotland.</hi>
+                  <figure>
+                     <head>
+                        <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ting Scoctland into one Common-wealth with England S<hi rend="sup">t</hi> Andrews <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>oſſe y<hi rend="sup">e</hi> Scots Arms be born in the Arms of this Common-w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </head>
+                     <figDesc>coat of arms of the Commonwealth</figDesc>
+                  </figure>
+               </head>
+               <p>THirty perſons to be called from <hi>Scotland</hi> in every Parlia<g ref="char:EOLhyphen"/>ment. That <hi>Charls Stewart,</hi> and all of the late Kings poſterity, be diſabled to enjoy the Crown of <hi>Scotland,</hi> or Name, Title, Stile, Dignity, Honors, or any Poſſeſſions of any Hereditaments thereto belonging; As alſo the Convo<g ref="char:EOLhyphen"/>cation of the three Eſtates of <hi>Scotland</hi> to be aboliſhed. That Cuſtom and Exciſe of Goods, be no otherwiſe between <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland,</hi> then from one place of <hi>England</hi> to another. That Taxes be proportionable to <hi>England.</hi> And that all Poſ<g ref="char:EOLhyphen"/>ſeſſors of Lands after <hi>Apr.</hi> 12. 1654. ſhall hold their Lands of the Lords, by Deed, Patent, or Enfeoffment, to be renewed upon the death of every Heritor to his Heirs, under ſuch Rents, and Services as are due by Deeds now in being, without rendring any other duty, ſervice, vaſſalage or demand whatſoever, ex<g ref="char:EOLhyphen"/>cept Heritors where the ſame are due. A Court Barron eve<g ref="char:EOLhyphen"/>ry three weeks, to Judge all Contracts, Debts, Promiſes, and Treſpaſſes not exceeding 40 <hi>s. ſterling.</hi>
+               </p>
+               <pb n="35" facs="tcp:66009:19"/>
+               <p>
+                  <hi>July</hi> 1. 1654. The High Court of Juſtice met in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi>-hall, the Lord Com. <hi>Liſle</hi> ſate as Preſident, their Com<g ref="char:EOLhyphen"/>miſſion was read, and the Court called over by their names; Mr. Atturney Gen. <hi>Prideaux,</hi> Mr. Sollicitor Gen. <hi>Ellis,</hi> and Mr. Serjeant <hi>Glin,</hi> were Counſell for his Highneſſe the Lord Protector. The Lieut. of the <hi>Tower,</hi> firſt brought Mr. <hi>Somer<g ref="char:EOLhyphen"/>ſet Fox,</hi> one of the Conſpirators in the late Treaſon, to the Bar, and Mr. Atturney Gen. then preſented a Charge of High Treaſon againſt him ingroſſed in parchment to the Court, which was read: The Priſoner ſaid very little to it, but made a Confeſſion to the Court of ſo much as (he ſaid) he was guilty of, having ſome few dayes before made the like confeſſion, and given it under his hand as the tru h, and ac<g ref="char:EOLhyphen"/>cordingly owned it in Court, his confeſſion under his own hand was alſo read, which did diſcover what was his part to act as an Agent in this bloody deſigne. The Court having ſatisfied th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſelves concerning Mr. <hi>Fox,</hi> the Lievt. of the Tower brought Mr. <hi>John Gerrard,</hi> and Mr. <hi>Peter Vowell,</hi> to the Bar, where <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x</hi> alſo ſtood, and the like Charge of High Treaſon was read againſt them alſo; which Charge conſiſt<g ref="char:EOLhyphen"/>ed of theſe heads, <hi>viz. The murdering of his Highneſs the Lord Protector as he ſhould go to</hi> Hampton <hi>Court on a Saterday pre<g ref="char:EOLhyphen"/>fixt: The ſeizing of all the Guards about</hi> Whitehall, <hi>the</hi> Mews, <hi>&amp; St.</hi> Jameſes, <hi>&amp; the making of themſelves maſters of the City of</hi> London, <hi>and the Tower with all the Magazines within the ſame: The proclaiming of</hi> Charls Stuart <hi>King, &amp; chief Magi<g ref="char:EOLhyphen"/>ſtrate of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions thereunto belonging, and other high Treaſons tending to involve the Common-wealth in a new bloody war.</hi> To which charge of High Treaſon the ſaid <hi>Gerard</hi> and <hi>Vowel</hi> pleaded Not guilty, pretending much ignorance, and that they were innocent of the knowledge of any ſuch deſigne; and did very much preſſe the Court to grant them Counſell to adviſe withall, and that they might be tried by a Jury, which being not to be granted unto them, and waved, ſeverall Witneſſes were produced upon their Oaths to make appear what they were charged with, as <hi>John Wiſeman,</hi> Dr. <hi>Hudſon,</hi> a blind man, Mr. <hi>Charls Gerhard</hi> Brother to the Priſoner, Capt. <hi>Dale,</hi> one
+<pb n="36" facs="tcp:66009:20"/> Mr. <hi>Wharton,</hi> and others, who did ſufficiently prove, That Mr. <hi>Gerrard</hi> was to command the party who were to mur<g ref="char:EOLhyphen"/>der his Highneſſe the L. Protector as he was going to <hi>Hamp<g ref="char:EOLhyphen"/>ton</hi> Court with thirty Horſe; and that the ſaid <hi>Gerrard</hi> had engaged to bring 25 of the 30, and Maj. <hi>T: Henſhaw</hi> was to bring 5 more: and it was alſo proved againſt him, that he, with Maj. <hi>Henſhaw,</hi> and the Witneſſe <hi>J. Wiſeman,</hi> did view the ſeverall Guards at <hi>Whitehall,</hi> the <hi>Mewes,</hi> and St. <hi>Jameſes,</hi> and had computed and deſigned 600 Horſe as ſufficient to ſeize and ſecure thoſe Guards, appointing alſo a party of Horſe to march into <hi>Tuttle</hi>-fields, as friends, and ſo to fall upon the forces then muſtering, and cut them off: It was alſo proved againſt him by his Brother Mr. <hi>Charles Gerrard,</hi> that he was at ſeverall meetings at his own Chamber near <hi>Eſſex</hi> houſe, and at other places with Maj. <hi>Henſhaw,</hi> and <hi>Finch,</hi> and others, about this deſigne, and particularly at Mr. <hi>Jones</hi> his Houſe in <hi>Roſe</hi> ſtreet in <hi>Covent Garden</hi> where in a Chamber <hi>Henſhaw</hi> and <hi>Finch</hi> gave an account that they had each of them liſted 800 men to be ready at a dayes war<g ref="char:EOLhyphen"/>ning; ſeverall other things were proved, which he obſti<g ref="char:EOLhyphen"/>nately denied; but confeſt his name was much uſed there<g ref="char:EOLhyphen"/>in, but was no intent Actor. And for Mr. <hi>Vowell,</hi> ſeverall Witneſſes upon their Oaths did teſtifie, that he was at many meetings with <hi>Henſhaw, Finch, Gerhard,</hi> and other of the Plotters to contrive the management of this buſineſſe, be<g ref="char:EOLhyphen"/>ing a perſon thought more fit to be a Councellor, then an Actor, and his reward ſhould have been to be Maſter of <hi>Sut<g ref="char:EOLhyphen"/>tons</hi> Hoſpitall; and it was alſo proved againſt him, though he could not act himſelfe, yet he promiſed to procure thoſe that ſhould act, and did engage one Capt. <hi>Billingſley,</hi> who undertook to provide Riders for the Horſes who ſhould be taken out of <hi>Iſlington</hi> fields; it was alſo proved his buying of Piſtols, and many other things ſufficient to prove his hand deep in the buſineſſe. And for <hi>Somerſet Fox,</hi> he confeſſed ſo much as ſaved the Court much trouble in examining witneſ<g ref="char:EOLhyphen"/>ſes: His part was, to engage as many Apprentices and Citi<g ref="char:EOLhyphen"/>zens of <hi>London</hi> as he could in the buſineſſe, that ſo when the falling on was upon the Guards at <hi>White hall,</hi> the <hi>Mewes</hi> and
+<pb n="37" facs="tcp:66009:20"/> St. <hi>Jameſes,</hi> and Col. <hi>Ingeldsbies</hi> Regiment in <hi>Southwark</hi> and the reſt of the Plot was in agitation, there might be a riſing and tumult made purpoſely in the City, to imploy what force was there, that no help might come elſewhere; and the Lord Mayor was to have been ſeized and carried to proclaim <hi>Charls Stuart</hi> King at the Exchange, and Dr. <hi>Wharton</hi> was to ſee him proclaimed: yet notwithſtanding all theſe witneſſes, <hi>Gerhard</hi> and <hi>Vowell</hi> denyed they knew of any thing of ſuch a deſigne; but they were not ſo ſatisfied, but that a baſe deſign was intended, too unworthy for a Gentleman to have his hand in, as did further appear by the teſtimony of <hi>John Wiſe<g ref="char:EOLhyphen"/>man,</hi> who did relate his going over into <hi>France</hi> with his bro<g ref="char:EOLhyphen"/>ther in Law Maj. <hi>Henſhaw,</hi> where they met the ſaid Mr. <hi>Ger<g ref="char:EOLhyphen"/>hard</hi> at <hi>Paris,</hi> and there had free acceſſe to the pretended King of <hi>Scots,</hi> about this deſigne, and received great encourage<g ref="char:EOLhyphen"/>ment in the buſineſſe from Prince <hi>Rupert;</hi> whereupon <hi>Hen<g ref="char:EOLhyphen"/>ſhaw</hi> and <hi>Wiſeman</hi> returned into <hi>England,</hi> and Mr. <hi>Gerhard</hi> came over about 3 weeks after to put the buſineſſe in agitati<g ref="char:EOLhyphen"/>on, immediately upon his arrivall, the ſaid <hi>Henſhaw, Finch, &amp;c.</hi> repaired to his lodging near <hi>Eſſex</hi> houſe, and received an account of the buſines, and ſo proceeded to act, as the ſaid <hi>Wiſeman</hi> teſtified. The Witneſſes being all examined, and the Priſoners heard what they could ſay for themſelves, the At<g ref="char:EOLhyphen"/>torney Gen. Solicitor Gen. and the Councell for the Com<g ref="char:EOLhyphen"/>monwealth ſumm'd up all the Evidences, and drew them in<g ref="char:EOLhyphen"/>to ſeverall heads, which they preſented to the Court with the Priſoners at the Bar, as objects of their Juſtice, the ſaid <hi>Ger<g ref="char:EOLhyphen"/>hard</hi> and <hi>Vowell</hi> ſtill remaining obſtinate. The Priſoners were commanded back to the <hi>Tower.</hi>
+               </p>
+               <p>
+                  <hi>July</hi> 6. The Portugall Ambaſſadors Brother, and the reſt, we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e againe brought to their Tryall at the <hi>
+                     <g ref="char:V">Ʋ</g>pper Bench</hi> at <hi>Weſtminſter</hi> and a Jury of 12 men, whereof 6 Denizes and 6 Aliens Impannel'd and ſwore: The Ambaſſ: Brother plead<g ref="char:EOLhyphen"/>ed very hard his ignorance in the Lawes of <hi>England,</hi> and de<g ref="char:EOLhyphen"/>ſired Councell, but that was denied, and he told, That the Court were of Councell equall, and alike to him, as to the Common-wealth, and would doe according to Law and the Juſtice of the Cauſe; Hereupon many Witneſſes were
+<pb n="38" facs="tcp:66009:21"/> ſworn and examined, and upon full hearing of the Evidence, and what the Priſoners could ſay, the Jury withdrew, and in a ſhort time returned, and delivered their Verdict by their Foreman (all agreeing) finding them all 5 guilty of the mur<g ref="char:EOLhyphen"/>ther and Felony for which they ſtood indicted; whereupon Judgement was afterwards pronounced, after a ſhort ſpeech made by the L: Chief Juſtice <hi>Rolls</hi> in the name of the Court, <hi>That they ſhould return from whence they came and from thence be carried to the place of Execution, &amp; there ſeveally to be han<g ref="char:EOLhyphen"/>ged by the neck till they are dead.</hi> The day appointed Saturday, but the Priſoners moved for reſpite till Monday, which was granted.</p>
+               <p>This afternoon alſo the High Court of Juſtice ſat in <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi>-hall, and there was brought before them Mr. <hi>Gerard,</hi> Mr. <hi>Vowel,</hi> and Mr. <hi>Fox,</hi> who were demanded what they had more to ſay for themſelves, <hi>Gerhard</hi> and <hi>Vowell</hi> ſpake much to excuſe themſelves, notwithſtanding what had been proved againſt them; after which the L. Preſident <hi>Liſle</hi> made a lear<g ref="char:EOLhyphen"/>ned ſpeech, to convince them of the deſperate wickedneſſe of their deſigne, and how fully the Charge had been proved, and what puniſhments the Law had provided in ſuch caſes, after which the Sentence of the Court was read ſeverally to all three, to this effect, <hi>That upon mature conſideration of the Treaſons and Murthers plotted, and contrived, by them againſt his Highneſſe the Lord Protector, and the Common-wealth, and raiſing a bloody war in the ſame, the Court did adjudge them to be hanged by the neck untill they be dead.</hi> Mr. <hi>Gerhard</hi> deſi<g ref="char:EOLhyphen"/>red the Execution might be altered, that he might be be<g ref="char:EOLhyphen"/>headed or ſhot to death, and therefore petitioned to the Lord Protector.</p>
+               <p>About 4 in the afternoon, Mr. <hi>John Gerhard</hi> was brought to the Scaffold on <hi>Tower</hi>-hill, his behaviour was ſprightly, the ſubſtance of his diſcourſe Cavalier-like, boaſting himſelfe of the profeſſion of Religion which was eſtabliſhed by Queen <hi>Elizabeth,</hi> K. <hi>James,</hi> and <hi>Charls,</hi> to which family he declared his affection. He acknowledged himſelf guilty of former ſins (but named them not) for which he had deſerved death heretofore; but as touching the Crime for which he was to
+<pb n="39" facs="tcp:66009:21"/> die, he ſpent not many words, onely he confeſſed that he knew of the plot. At length he ſubmitted his neck to the Exe<g ref="char:EOLhyphen"/>cutioner, who at once ſevered the Head from the Body.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July</hi> 10. 1654. <hi>Don Pontaleon Sa,</hi> Brother to the <hi>Portu<g ref="char:EOLhyphen"/>gall</hi> Ambaſſador, and Mr. <hi>John Gerhard,</hi> were both beheaded at <hi>Towerhill.</hi>
+                  <figure>
+                     <figDesc>depiction of a beheading at Tower Hill</figDesc>
+                  </figure>
+               </head>
+               <p>But a little before he lay down, came the <hi>Portugal</hi> Ambaſ<g ref="char:EOLhyphen"/>ſadors Brother, <hi>Don Pontaleon Sa.</hi> A very obſervable hand of Providence that theſe two perſons, <hi>Gerhard</hi> and the <hi>Don,</hi> who began that quarrell, in the proſecution whereof the murther was committed at the New Exchange, ſhould meet thus to die at the ſame time and place, for different crimes. It is alſo to be noted, that God did even mark out this Portugall for Juſtice; for when he eſcaped out of Newgate at firſt, he was immediately found out: and now having by Order of the Court been remanded to the Keeper of Newgate, he was very near an eſcape thence againe, but the Lord prevented him: For yeſternight, being Lords day at night, a new plot
+<pb n="40" facs="tcp:66009:22"/> was laid for his eſcaping by two women, one was Mrs. <hi>Gourdon</hi> who brought another woman, who under her womans ap<g ref="char:EOLhyphen"/>parrell had a Foot-boys ſuit on; the womans cloths being taken off, they dreſt up the <hi>Don</hi> in them, and ſo he came down with Mrs. <hi>Gourdon,</hi> to to the door, where the Keeper narrow<g ref="char:EOLhyphen"/>ly prying under the hood, diſcovered the fraud, and ſpoyled the buſineſſe. This failing, and the hour of execution next day approaching, he was conveyed from <hi>Newgate</hi> to <hi>Tower hill</hi> in a Coach and ſix Horſes in mourning having divers of of his Brothers retinue with him, much lamenting his condi<g ref="char:EOLhyphen"/>tion. Being upon the Scaffold, he ſpake ſomewhat to thoſe that underſtood him, in excuſe of his offence, laying the blame of the quarrell and murther upon the Engliſh. So after ſome few private words and paſſages of Popiſh devotion with his Confeſſor, he ſurrendred to him his Beads and Crucifix, and his Head to the Block, which was chopt off with ſomewhat more then a ſingle blow. The reſt condemned about th t murther, were reprieved all, ſave an Iriſh man, who was exe<g ref="char:EOLhyphen"/>cuted alſo this day early in the morning, at Tiborn.</p>
+               <p>In the morning alſo of this day, the Articles of Peace being fully concluded betwixt <hi>England</hi> and <hi>Portugall,</hi> were ſigned by the ſaid Ambaſſador, and immediately thereupon he with<g ref="char:EOLhyphen"/>drew from his houſe out of Town.</p>
+               <p>It pleaſed his Highneſſe to reprieve <hi>Somerſet Fox,</hi> becauſe of his ingenuous confeſſion, but this day the other two were executed for their Treaſons againſt his Highnes and the Com<g ref="char:EOLhyphen"/>monwealth. <hi>Vowel</hi> a School-maſter, was in the morning ex<g ref="char:EOLhyphen"/>ecuted upon a Gallows at <hi>Charing-Croſſe,</hi> and in the ſame place it was expected <hi>Gerhard</hi> ſhould have ſuffered the ſame death, but he had the favour granted him to looſe his head: <hi>Vowel</hi> ſpake little of the crime for which he ſuffered, but the main of his diſcourſe was to proclaim how great a Zelot he was to the old way of Religion, and to the cauſe of the late King and his family; wherein he let fall divers expreſſions tending to ſedition, and few of repentance for his fault touch<g ref="char:EOLhyphen"/>ing which he would not ſpeak out, but willed the Executioner to doe his Office, and ſo after halfe an hours hanging he was cut down, and conveyed away in a Coach.</p>
+            </div>
+            <div type="indenture">
+               <pb n="41" facs="tcp:66009:22"/>
+               <head>The form of an Indenture between the Sheriff, and the E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctors of Perſon, to ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve in Parl. for Counties.<figure>
+                     <figDesc>depiction of Parliament</figDesc>
+                  </figure>
+               </head>
+               <p>THis Indenture made the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the year of our Lord, one thouſand ſix hundred fifty and four, at <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the County of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Between <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Sheriff of the County aforeſaid of the one part, and C. D. E. F. G. H. and divers other perſons qualified and capable to Elect Members to ſerve in Parliament for Counties, as is pre<g ref="char:EOLhyphen"/>ſcribed in the Goverment of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> witneſſeth, That Proclamation having been made in every Market-Town in the County aforeſaid, within ten dayes after the receit of a certain Writ of the Lord Protector to the aforeſaid Sheriff directed, and to one part of theſe Indentures annexed for the Election of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Knights, fit and diſcreet perſons of the County aforeſaid, for the Par<g ref="char:EOLhyphen"/>liament of the ſaid Lord Protector, in the Writ aforeſaid ſpe<g ref="char:EOLhyphen"/>cified to be choſen, and to be at the Parliament of the ſaid Lord Protector, at <hi>Weſtminſter</hi> in the County of <hi>Middleſex,</hi> the third day of <hi>September</hi> next to be held; The aforeſaid C. D. E. F. G. H. <hi>&amp;c.</hi> and divers other Perſons of the Coun<g ref="char:EOLhyphen"/>ty aforeſaid, who were preſent at ſuch Election, freely and in<g ref="char:EOLhyphen"/>differently have choſen <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Knights girt with Swords, that is to ſay, A. B. <hi>&amp;c.</hi> to be in the Parliament aforeſaid, as in the ſaid Writ is mentioned, who for themſelves, as alſo for all the People of the County aforeſaid, have full and ſuffi<g ref="char:EOLhyphen"/>cient power to doe and conſent unto thoſe things, which in
+<pb n="42" facs="tcp:66009:23"/> the aforeſaid Parliament ſhall then and there, by common conſent and councell, happen to be ordained. Provided, and it is hereby Declared, That the perſons ſo choſen ſhall not have power to alter the Government as it is now ſetled in one ſingle perſon and a Parliament. In witneſſe whereof, as well the Seal of the Office of the ſaid Sheriff, as alſo the Seals of the Electors aforeſaid, the day, year, and place above<g ref="char:EOLhyphen"/>ſaid, to theſe Indentures are put and affixed.</p>
+            </div>
+            <div type="indenture">
+               <head>The form of an Indenture between the Sheriff, and the Burgeſſes and Inhabitants of Burroughs.</head>
+               <p>THis Indenture made the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the year of our Lord, one thouſand ſix hundred fifty and four, Between A. B. High Sheriff of the County of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of the one part, and C. D. E. F. G. H. <hi>&amp;c.</hi> Burgeſſes and Inhabitants of the Burrough of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of the other part, witneſſeth, That by vertue of a Warrant unto J: K: <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of the ſaid Burrough of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> from the ſaid High Sheriff to him directed, for the Electing and chooſing of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Burgeſſes of good underſtanding, knowledge and diſ<g ref="char:EOLhyphen"/>cretion for Cauſes concerning the publick good of this Com<g ref="char:EOLhyphen"/>monwealth, To be at his Highneſſe Parliament to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olden at <hi>Weſtminſter</hi> the third day of <hi>September</hi> next; we the ſaid Burgeſſes and Inhabitants there, have made choice and electi<g ref="char:EOLhyphen"/>on of L. and M. to be Burgeſſes of the ſaid Burrough of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> to attend at the ſaid Parliament according to the tennor of the ſaid Warrant unto him the ſaid I. K. directed in that behalfe; who for themſelves and people of the ſaid Burrough have full power to doe and conſent to thoſe things which in Parliament ſhall happen: Provided they alter not the Go<g ref="char:EOLhyphen"/>vernment from one ſingle perſon and a Parliament. In wit<g ref="char:EOLhyphen"/>neſſe whereof we the parties above named to theſe preſents interchangeably ſet our hands and Seals, the day and year firſt above written.</p>
+            </div>
+            <div type="part">
+               <pb n="43" facs="tcp:66009:23"/>
+               <head>
+                  <hi>January</hi> 22. 1654.</head>
+               <p>The five months (according to the inſtrument of the Go<g ref="char:EOLhyphen"/>vernment for the time allotted to ſit) being expired, his High<g ref="char:EOLhyphen"/>neſſe the Lord Protector ſent a meſſage to them to meet him in the Painted Chamber, about 12 of clock; where they be<g ref="char:EOLhyphen"/>ing met, he made a ſpeech about two hours lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g for the diſ<g ref="char:EOLhyphen"/>ſolving of the Parliament, and ſo declared than he did diſſolve them.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <head>Charles by y<hi rend="sup">e</hi> grace of God, Prince of Wales, Duke of Cornwell, etc.</head>
+                     <figDesc>portrait of Charles II</figDesc>
+                  </figure>
+               </head>
+               <p>YOu will eaſily believe that I am very well perſwaded, to hear how carefull and ſolicitous you are for my con<g ref="char:EOLhyphen"/>cernments, and of the courſe you reſolve to take: The truth is, I have been ſo tender of my friends, that I have de<g ref="char:EOLhyphen"/>ferred to call upon them to appear, till I could find my ſelfe able to give them good incouragements from abroad; but
+<pb n="44" facs="tcp:66009:24"/> ſince I find that comes on ſo ſlowly, I would no longer re<g ref="char:EOLhyphen"/>fraine thoſe affections, which I muſt deſire to be beholding to; and have reaſon to believe, that if they who wiſh one and the ſame thing, knew each others minds, the work would be done without any difficulty, and if there were any hand<g ref="char:EOLhyphen"/>ſome appearance in any one place, the reſt would not ſit ſtill, and I am perſwaded I ſhould then find ſupplies from thoſe who are yet afraid to offer them; however I am ſure I would my ſelfe be with thoſe that firſt wiſhed for me, and to that purpoſe I would keep my ſelfe within a reaſonable diſtance. Conſult with thoſe you dare truſt, if you are alrea<g ref="char:EOLhyphen"/>dy ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed upon a time, and you cannot promiſe your ſelves any thing that you will be diſappointed in, and which is in the Power of</p>
+               <closer>
+                  <signed>Your affectionate friend <hi>CHARLS R.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>July</hi> 16. 1655.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>March</hi> 13. 1655.</head>
+               <p>THis day his Highneſſe, as alſo the Members of the Coun<g ref="char:EOLhyphen"/>cell, and the Officers of the Army, were buſie about the Plot, and to ſubdue the riſings in ſeverall places.</p>
+               <p>All the Horſes about <hi>London</hi> were this day ſeized on by Order from his Highneſſe and the Councell, to prevent any riſing here.</p>
+               <p>This evening ſome hundred of Armes where brought into Whitehall from the Tower by water in Boats, Backs, and Breſts, and Swords, which are there ready as occaſion ſhall offer for uſe.</p>
+               <p>His Highneſſe and the Councell ſate very late (untill after midnight) this night, making all poſſible means for ſuppreſ<g ref="char:EOLhyphen"/>ſion of all tumults and inſurrections, touching which ſeverall Commiſſions, and Inſtructions, and Letters, were diſpatched to the ſeverall Counties, to the end the Common-wealth
+<pb n="45" facs="tcp:66009:24"/> may be eſtabliſhed in Peace, that thoſe who are riſen may be ſuppreſſed, and to prevent the like in other places.</p>
+            </div>
+            <div type="relation">
+               <head>A Relation of the ſeverall Riſings, the truth whereof is as followeth.</head>
+               <p>THere were ſome Cavaliers ſaid to be riſen about <hi>Merio<g ref="char:EOLhyphen"/>neth</hi> ſhire, and other parts in <hi>Wales,</hi> reported in all to be 7 or 8 hundred, but not like to be ſo many of that party, for ſome of thoſe that riſe in <hi>Wales</hi> were Inhab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tants to oppoſe any that ſhould riſe as was feared, which intended to joyne with thoſe of the Army.</p>
+               <p>Another party were riſen in <hi>Nottingham</hi> ſhire, noiſed to be 500, but not thought ſo many, towards whom a party from Col. <hi>Hacker</hi> marched out of <hi>Leiceſter</hi> ſhire to ſuppreſſe them; their intent was thought to be, to have joyned with another party at <hi>Shrewsbury</hi> which were diſcovered, and ſo their deſigne fruſtrated.</p>
+               <p>There were four men to go into <hi>Shrewsbury</hi> Caſtle, two in womans apparrell, and the other two as their men to wait on them; who being got in, at a ſeaſonable time were to give notice by ſhooting off a Piſtoll to a party of horſe which they were to let in, and ſo ſurprize the Caſtle, of which Collonell <hi>Mackworth,</hi> one of the ſons of the old Collonell <hi>Mackworth</hi> deceaſed, now the Governour, having notice, prevented their deſigne; and hath apprehended the Lord <hi>Newport,</hi> one <hi>White,</hi> Sir <hi>Thomas Harris,</hi> and ſeverall of the Actors: about 100 horſe were found in a Barn, and the Armes under ſtraw in the ſame Barn, which are taken, and thoſe parts ſecured. <hi>Cheſter</hi> was alſo intended to be ſeized on.</p>
+               <p>Thoſe that were riſen in <hi>Nottingham</hi> ſhire ſo ſoon as they had an Alarm from Collonell <hi>Hackers</hi> Troops marching againſt them from <hi>Leicester</hi> ſhire, the chiefe of the Cava<g ref="char:EOLhyphen"/>liers met in conſultation what to doe, and preſently reſolved to diſperſe and be gone; becauſe they were prevented of joy<g ref="char:EOLhyphen"/>ning with thoſe intended to have riſen at <hi>Shrewsbury,</hi> and
+<pb n="46" facs="tcp:66009:25"/> that a party of the Army were marching towards them, and they had no ſecurity to retreat any where; the Countries about not riſing as was expected, but rather oppoſing them: It was debated what they ſhould doe with their Armes, for they had received a Cart load of Armes, ſome would have had them thrown into the water, but it was reſolved to have them ſent back to the houſe from which they were ſent to them, which accordingly was done, and the Cavaliers diſperſed preſently upon it; and ſome of the chief of them are appre<g ref="char:EOLhyphen"/>hended, and the Armes ſeized on.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Yorke. March</hi> 26. 1655.</head>
+               <p>Sir <hi>Richard Maliverer,</hi> on Thurſday night laſt, ſent for all his Tennants to a great Supper, and then invited them all to joyne with him in taking up Armes, and told them they intended that night to take <hi>Yorke</hi> for the King, and appoin<g ref="char:EOLhyphen"/>ted them a gate where he would meet them, ſome four went along with him, divers Gentlemen met them upon Heſſay More, and Carts laden with Armes; after they had been there a while, the appearance was ſo ſmall, to what was ex<g ref="char:EOLhyphen"/>pected, that they parted againe. Sir <hi>Richard Maliverer</hi> went home, and bid his Lady to take the beſt courſe ſhe could for her ſelfe, for he was neceſſitated to flye, wiſhing himſelfe well arrived beyond the Seas, and ſo departed from her.</p>
+            </div>
+            <div type="part">
+               <head>The Intelligence touching the Cavaliers that were at <hi>Salisbury,</hi> is as followeth.</head>
+               <p>THe Judges came to <hi>Salisbury</hi> on Saterday laſt, being met by Mr. <hi>Dove</hi> the High Sheriff and his men, and that divers of the Cavaliers came into the Town, it being a time (as they ſuppoſed) of leaſt ſuſpicion. On the Lords day about midnight the Cavaliers randezvouzed, and were above 100. Monday morning early they ſeized all the horſes, ſei<g ref="char:EOLhyphen"/>zed on the Sheriff about ſeven a clock, would have forced him to proclaime <hi>Charles Stewart</hi> King, which he refuſing,
+<pb n="47" facs="tcp:66009:25"/> they wounded him in ſeverall places, cut him over the face with a ſword, knocked him over the head with a piſtoll, yet he told them he would looſe his life before he would doe it, and though he offered them money and other offe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, yet they took him away. The Commander in chief was one Sir <hi>Joſeph Wagstaffe,</hi> formerly a Lieut. Collonell, at the beginning of the late wars, in the Parliaments Army; but now revolted to the late King, was a Collonell under him; a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d now Major Generall to this intended Brigade for <hi>Charls St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wart.</hi> And they plundred both the Judges, the Sheriff, the Juſtices, the Lawyers, and Gentlemen, and all, of all they coul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> get fit to carry away; But afterwards one <hi>Penruddock</hi> told the Judges that Maj. Gen. <hi>Wagstaffe</hi> had given o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ders to aſſure them, that they ſhould receive no harm in their own perſons. After that they had taken from the Judges their Paroll, they let out the priſoners, ſome for debt (as Mr. <hi>Gokin</hi> who was in for 1000 <hi>l.</hi> and others) and all the Theeves and male<g ref="char:EOLhyphen"/>factors, with their Irons upon them, mounted thoſe that would joyne with them, and went out (after they had pro<g ref="char:EOLhyphen"/>claimed <hi>Charls Stewart</hi> King) being about 200. And from thence went to <hi>Blanford,</hi> incouraging their followers, that their chiefe Leader was comming from <hi>France</hi> to head them with 10000 men, for they began to be diſcouraged that the Country people did not riſe and joyne with them as was ex<g ref="char:EOLhyphen"/>pected; ſo that ſome of them have left them, among which ſome of them are come to Whitehall to beg pardon. They went from thence towards <hi>Dorcheſter.</hi>
+               </p>
+               <p>The chief are ſaid to be,
+<list>
+                     <item>M. Gen. Sir <hi>Joſeph Wagſtaffe</hi>
+                     </item>
+                     <item>Sir <hi>Henry More</hi> of <hi>Berkshire</hi>
+                     </item>
+                     <item>
+                        <hi>John Penruddock</hi> Eſq;</item>
+                     <item>Maj. <hi>Henry Clark</hi> Eſq;</item>
+                     <item>
+                        <hi>Thomas Mumparſons</hi>
+                     </item>
+                     <item>Lieut. Col. <hi>Boll</hi>
+                     </item>
+                     <item>Capt. <hi>Hugh Grove,</hi>
+                     </item>
+                     <item>Two of the <hi>Joneſes,</hi> &amp;c.</item>
+                  </list>
+               </p>
+               <p>There are divers of them taken.</p>
+               <list>
+                  <pb n="48" facs="tcp:66009:26"/>
+                  <item>Col: <hi>Penruddocke,</hi> Col: <hi>Jones,</hi>
+                  </item>
+                  <item>Mr. <hi>John Dean,</hi> And Mr. <hi>Lucas,</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Were Executed, at the appointed places, on Thurſday and Friday laſt, at</hi> Salisbury <hi>and</hi> Exceſter, <hi>being the</hi> 3 <hi>and</hi> 4 <hi>of this inſtant May,</hi> 1655.</p>
+               <figure/>
+               <p>Sir <hi>William Ingram,</hi> Sir <hi>Walter Vavaſor,</hi> Sir <hi>Hen: Slingsby,</hi> and divers other Gentlemen, are ſuſpected to have had an hand in the buſineſſe; a party of horſe is gone this morning to ſecure ſuch as can be found: Sir <hi>William Ingram</hi> is brought in already.</p>
+            </div>
+            <div type="part">
+               <head>Part of the Inſtructions and Orders given to the Major Generalls for preſerving the Peace of the Common-wealth, are as followeth.</head>
+               <p>THey are to endeavor the ſuppreſſing all Tumults, Inſur<g ref="char:EOLhyphen"/>rections, Rebellion, or other unlawfull Aſſemblies, which ſhall be within the ſaid Counties, as alſo all Invaſions from a<g ref="char:EOLhyphen"/>broad, and to that purpoſe ſhall have power to draw together
+<pb n="49" facs="tcp:66009:26"/> the ſaid Forces or Troops, and march into ſuch places as they ſhall judge convenient in <hi>England</hi> and <hi>Wal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi>
+               </p>
+               <p>They are to take care and give order, That all Papiſts and others who have been in Armes againſt the Parliament, or aſſiſted the late King or his Son in the late Wars, as alſo all others who are dangerous to the peace of the Nation, be diſ<g ref="char:EOLhyphen"/>armed, and their Arms ſecured in ſome adjacent Garriſons, or otherwiſe diſpoſed of, as may be for the publick ſervice.</p>
+               <p>And to the end that the Highways and Roads may be more ſafe for Travellers, and the many Robberies and Burglaries daily comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tted may be prevented They, with the ſaid Cap<g ref="char:EOLhyphen"/>tains and Officers ſhall uſe their beſt endeavors to find out all ſuch Thieves, Robbers, Highway-men, and other dangerous perſons as lurk &amp; lie hid in any place within the ſeveral Coun<g ref="char:EOLhyphen"/>ties, and the houſes and places which they frequent and uſu<g ref="char:EOLhyphen"/>ally lodge in, and take ſuch courſe for the apprehending of them, and alſo for the proſecuting them and their Receivers, as is agreeable to Law. And they have hereby power to ap<g ref="char:EOLhyphen"/>point ſuch reward, not exceeding ten pounds, to ſuch perſon as ſhall diſcover and apprehend any ſuch Thief, Highway-man or Robber, to be paid unto them after the conviction of the party ſo diſcovered and apprehended, which the Sheriff for the time being ſhall pay, and which ſhall according to an Act of Parliament, entituled, <hi>An Act for the better and more effectual diſcovery and proſecution of Thieves &amp; Highway-men,</hi> be allowed to him upon his account.</p>
+               <p>They are to have a ſtrict eye upon the Converſation and carriage of all Diaffected perſons within the ſeveral Counties. And they ſhall give the like direction to all the ſaid Captains and Officers at their Meetings, to be watchfull and diligent in the ſame kind: As alſo that no Horſe-races, Cock-fightings, Bear-baitings, Stage-plays, or any unlawfull Aſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mblies be ſuffered or permitted within their Counties. Foraſmuch as Treaſon and Rebellion, is uſually hatched and contrived a<g ref="char:EOLhyphen"/>gainſt the State upon ſuch occaſions, and much Evill and Wickedneſſe committed.</p>
+               <p>They and the aforeſaid Officers, ſhall labor to informe themſelves of all ſuch idle and looſe people that are within
+<pb n="50" facs="tcp:66009:27"/> their Counties, who have no viſible way of Livelihood, nor calling or imployment, and ſhall conſider by what means they may be compelled to work, or be ſent out of the Common-wealth: As alſo how the poor and impotent of thoſe Coun<g ref="char:EOLhyphen"/>ties may be imployed, and better provided for, then now they are, and certifie the ſame to us, and the Councell, for our fur<g ref="char:EOLhyphen"/>ther Direction thereupon. And in the mean time, ſhall en<g ref="char:EOLhyphen"/>deavor as far as in them lies, that the Laws in ſuch caſes, made and provided, be put in effectuall Execution.</p>
+               <p>They ſhall in their conſtant Carriage and Converſation, encourage and promote Godlineſſe and Vertue, and D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcou<g ref="char:EOLhyphen"/>rage and Diſcountenance all Prophaneſſe and U<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>godlineſſe; and ſhall endeavor with the other Juſtices of the Peace, and other Miniſters and Officers, who are intruſted with the care of thoſe things that the Laws againſt Drunkenneſſe, Blaſphe<g ref="char:EOLhyphen"/>ming, and taking of the Name of God in vaine, by ſwearing and curſing, Plays and Interludes, and prophaning the Lords day, and ſuch like wickedneſſe and abominations, be put in more effectuall execution then they have been hetherto.</p>
+               <p>They ſhall take an exact account of what proceedings have been upon the Ordinance for Ejecting of Ignorant, Inſuffici<g ref="char:EOLhyphen"/>ent, and Scandalous Miniſters and Schoolmaſters, and take care that the ſame be effectually put in Execution for the time to come, in all the Counties aforeſaid; and that from time to time, they give an accout to us and our Councell.</p>
+               <p>All thoſe that had any way aſſiſted the King, were Dece<g ref="char:EOLhyphen"/>mated; that is, they were to pay the tenth part of their Eſtate, to the bearing of the charges of the Army; which was ſetled in every County throughout the Land.</p>
+            </div>
+            <div type="list_of_names">
+               <pb n="1" facs="tcp:66009:27"/>
+               <head>A Perfect LIST of the Names of the Perſons returned to ſerve in this Parl. <hi>1656.</hi> For the ſeverall Counties and Corpora<g ref="char:EOLhyphen"/>tions within the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions there<g ref="char:EOLhyphen"/>unto belonging.</head>
+               <list>
+                  <head>Bedford.</head>
+                  <item>WIlliam Butler <hi>Kt.</hi>
+                  </item>
+                  <item>John Harvey</item>
+                  <item>Richard Wagſtaffe</item>
+                  <item>Samuel Bedford</item>
+                  <item>Richard Edwards</item>
+               </list>
+               <list>
+                  <head>Bedford Town.</head>
+                  <item>Thomas Margets</item>
+               </list>
+               <list>
+                  <head>Berkes.</head>
+                  <item>William Trumball</item>
+                  <item>John Southby</item>
+                  <item>Edmond Dunche</item>
+                  <item>John Dunche</item>
+                  <item>William Hide</item>
+               </list>
+               <list>
+                  <head>Abington.</head>
+                  <item>Thomas Holt</item>
+               </list>
+               <list>
+                  <head>Reading.</head>
+                  <item>
+                     <hi>Sir</hi> John Barkſtead</item>
+                  <item>Daniel Blagrave</item>
+               </list>
+               <list>
+                  <head>Buckingham.</head>
+                  <item>
+                     <hi>Lord</hi> Whitlock</item>
+                  <item>
+                     <hi>Sir</hi> Richard Piggot</item>
+                  <item>Richard Grenvile</item>
+                  <item>Richard Ingoldsby</item>
+                  <item>Richard Hamden</item>
+               </list>
+               <list>
+                  <head>Buckingham Town.</head>
+                  <item>Francis Ingoldsby</item>
+               </list>
+               <list>
+                  <head>Alisbury.</head>
+                  <item>Thomas Scot</item>
+               </list>
+               <list>
+                  <head>Chipping Wiccomb.</head>
+                  <item>
+                     <hi>Maj. Gen.</hi> Tobias Bridge</item>
+               </list>
+               <list>
+                  <head>Cambridge <hi>&amp;</hi> Ely.</head>
+                  <item>
+                     <hi>Sir</hi> Francis Ruſſell <hi>Bar.</hi>
+                  </item>
+                  <item>Robert Caſtle</item>
+                  <item>Henry Pickering</item>
+                  <item>Robert Weſt</item>
+               </list>
+               <list>
+                  <head>
+                     <g ref="char:V">Ʋ</g>niverſity.</head>
+                  <item>
+                     <hi>Lord</hi> Richard Cromwell</item>
+               </list>
+               <list>
+                  <head>Cambridge Town.</head>
+                  <item>
+                     <hi>Alderman</hi> Richard Tymbes</item>
+               </list>
+               <list>
+                  <head>Ely.</head>
+                  <item>John Thurloc</item>
+                  <item>William Fiſher</item>
+               </list>
+               <list>
+                  <head>Cheſter.</head>
+                  <item>
+                     <hi>Sir</hi> George Booth <hi>Bar.</hi>
+                  </item>
+                  <item>Thomas Marbury</item>
+                  <item>Richard Leigh. Peter Brook</item>
+               </list>
+               <list>
+                  <head>Cheſter City.</head>
+                  <item>Edward Bradſhaw</item>
+               </list>
+               <list>
+                  <head>Cornwall.</head>
+                  <item>Francis Rous</item>
+                  <item>John St. Aubin</item>
+                  <item>Anthony Rous</item>
+                  <item>Anthony Nicholl</item>
+                  <item>Richard Cartar</item>
+                  <item>Thomas C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ely</item>
+                  <item>William Braddon</item>
+                  <item>Walter Moyle</item>
+               </list>
+               <list>
+                  <pb n="2" facs="tcp:66009:28"/>
+                  <head>Launceſton.</head>
+                  <item>Thomas Gewen</item>
+               </list>
+               <list>
+                  <head>Truro.</head>
+                  <item>Walter Vincent</item>
+               </list>
+               <list>
+                  <head>Penryn.</head>
+                  <item>John Fox</item>
+               </list>
+               <list>
+                  <head>Eaſtlow <hi>&amp;</hi> Weſtlow.</head>
+                  <item>John Buller</item>
+               </list>
+               <list>
+                  <head>Cumberland.</head>
+                  <item>
+                     <hi>Maj. Gen.</hi> Charls Howard</item>
+                  <item>William Briſcee</item>
+               </list>
+               <list>
+                  <head>Carliſle.</head>
+                  <item>
+                     <hi>Scoutmaſter Gen.</hi> Downing</item>
+               </list>
+               <list>
+                  <head>Derby.</head>
+                  <item>John Gell</item>
+                  <item>
+                     <hi>Sir</hi> Samuel Sleight</item>
+                  <item>Thomas Saunders</item>
+                  <item>German Pole</item>
+               </list>
+               <list>
+                  <head>Derby Town.</head>
+                  <item>Gervaſe Bennet</item>
+               </list>
+               <list>
+                  <head>Devon.</head>
+                  <item>
+                     <hi>Sir</hi> John Northcot <hi>Bar.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> John Young</item>
+                  <item>Robert Rolle</item>
+                  <item>Arthur Upton</item>
+                  <item>Thomas Reynell</item>
+                  <item>William Morrice</item>
+                  <item>Henry Hatſell</item>
+                  <item>Edmond Fowell</item>
+                  <item>John Hale</item>
+                  <item>John Dodderidge</item>
+                  <item>Thomas Saunders</item>
+               </list>
+               <list>
+                  <head>Exceſter.</head>
+                  <item>Thomas Bampfield</item>
+                  <item>Thomas Weſtlake</item>
+               </list>
+               <list>
+                  <head>Plimouth.</head>
+                  <item>John Maynard</item>
+                  <item>Timothy Alſop</item>
+                  <item>
+                     <hi>Darmouth, Clifton, Hardnes.</hi>
+                  </item>
+                  <item>Edward Hopkins</item>
+               </list>
+               <list>
+                  <head>Totnes.</head>
+                  <item>Chriſtopher Maynard</item>
+               </list>
+               <list>
+                  <head>Burnstaple.</head>
+                  <item>
+                     <hi>Sir</hi> John Coppleſton</item>
+               </list>
+               <list>
+                  <head>Tiverton.</head>
+                  <item>Robert Shapcot</item>
+               </list>
+               <list>
+                  <head>Honyton.</head>
+                  <item>Samuel Searle</item>
+               </list>
+               <list>
+                  <head>Dorcet.</head>
+                  <item>
+                     <hi>Col.</hi> William Sydenham</item>
+                  <item>John Bingham</item>
+                  <item>Robert Coker</item>
+                  <item>John Fitz-James</item>
+                  <item>James Dewey</item>
+                  <item>John Trenchard</item>
+               </list>
+               <list>
+                  <head>Dorcheſter.</head>
+                  <item>John Whiteway</item>
+                  <item>
+                     <hi>Weymouth</hi> &amp; <hi>Melcomb-regis.</hi>
+                  </item>
+                  <item>Dennis Bond</item>
+               </list>
+               <list>
+                  <head>Lyme-regis.</head>
+                  <item>Edmond Prideaux</item>
+               </list>
+               <list>
+                  <head>Poole.</head>
+                  <item>Edward Butler</item>
+               </list>
+               <list>
+                  <head>Dirham.</head>
+                  <item>Thomas Lithame</item>
+                  <item>James Clavern</item>
+               </list>
+               <list>
+                  <head>Dirham City.</head>
+                  <item>Anthony Smith</item>
+               </list>
+               <list>
+                  <head>Yorke. Eaſt-Riding.</head>
+                  <item>
+                     <hi>Sir</hi> William Strickland</item>
+                  <item>Hugh Bethel <hi>Junior</hi>
+                  </item>
+                  <item>Richard Darley</item>
+                  <item>Henry Darley</item>
+               </list>
+               <list>
+                  <head>Weſt-Riding.</head>
+                  <item>
+                     <hi>Lord</hi> Lambert</item>
+                  <item>Francis Thorpe</item>
+                  <pb n="3" facs="tcp:66009:28"/>
+                  <item>Henry Tempeſt</item>
+                  <item>Henry Arthington</item>
+                  <item>Edw: Gyll. John Stanhop</item>
+               </list>
+               <list>
+                  <head>North-Riding.</head>
+                  <item>George <hi>Lord</hi> Evre</item>
+                  <item>
+                     <hi>Col.</hi> Robert Lilburne</item>
+                  <item>Luke Robinſon</item>
+                  <item>Francis Laſſels</item>
+               </list>
+               <list>
+                  <head>Yorke City.</head>
+                  <item>
+                     <hi>Lord</hi> Widdrington</item>
+                  <item>Thomas Dickenſon</item>
+               </list>
+               <list>
+                  <head>Kingston <hi>upon</hi> Hull.</head>
+                  <item>William Lyſter</item>
+                  <item>
+                     <hi>Beverley,</hi> Francis Thorpe</item>
+               </list>
+               <list>
+                  <head>Scarborough.</head>
+                  <item>Edward Salmon</item>
+                  <item>
+                     <hi>Richmond,</hi> John Bathurſt</item>
+               </list>
+               <list>
+                  <head>Leeds.</head>
+                  <item>Francis Alanſon, <hi>Senior.</hi>
+                  </item>
+                  <item>Adam Baynes</item>
+                  <item>
+                     <hi>Hallifax.</hi> Jeremy Bently</item>
+               </list>
+               <list>
+                  <head>Eſſex.</head>
+                  <item>
+                     <hi>Sir</hi> Thomas Honywood</item>
+                  <item>Dionyſius Wakering</item>
+                  <item>Henry Mildmay</item>
+                  <item>Carew Mildmay</item>
+                  <item>
+                     <hi>Sir</hi> Rich: Everard <hi>Bar.</hi>
+                  </item>
+                  <item>Robert Barrington</item>
+                  <item>Dudley Templer</item>
+                  <item>Oliver Raymond</item>
+                  <item>Edward Turnor</item>
+                  <item>
+                     <hi>Sir</hi> Tho: Bowes</item>
+                  <item>Hezek: Hains. John Archer</item>
+                  <item>
+                     <hi>Sir</hi> Harbottle Grimſtone</item>
+               </list>
+               <list>
+                  <head>Colcheſter.</head>
+                  <item>Henry Laurence L. Preſid.</item>
+                  <item>John Maidſtone</item>
+                  <item>
+                     <hi>Maldon,</hi> Joachim Mathews</item>
+               </list>
+               <list>
+                  <head>Glouceſter.</head>
+                  <item>George Berkley</item>
+                  <item>John Howe</item>
+                  <item>John Crofts</item>
+                  <item>Baynham Throckmorton</item>
+                  <item>William Neaſt</item>
+               </list>
+               <list>
+                  <head>Glouceſter City.</head>
+                  <item>
+                     <hi>Generall</hi> John Disbrow</item>
+                  <item>Thomas Pury, <hi>younger.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Tewksbury.</head>
+                  <item>Francis White</item>
+               </list>
+               <list>
+                  <head>Cirenceſter.</head>
+                  <item>John Stone.</item>
+               </list>
+               <list>
+                  <head>Hereford.</head>
+                  <item>
+                     <hi>Maj. Gen.</hi> James Berry</item>
+                  <item>Edward Harloe</item>
+                  <item>Bennet Hoskins</item>
+                  <item>Benjamin Maſon</item>
+               </list>
+               <list>
+                  <head>Hereford City.</head>
+                  <item>Wroth Rogers</item>
+               </list>
+               <list>
+                  <head>Leompſter.</head>
+                  <item>John Birch</item>
+               </list>
+               <list>
+                  <head>Hertford.</head>
+                  <item>William <hi>Earl of</hi> Salisbury</item>
+                  <item>
+                     <hi>Sir</hi> Richard Lucy <hi>Bar.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> John Wittronge</item>
+                  <item>
+                     <hi>Sir</hi> John Gore</item>
+                  <item>Rowland Litton</item>
+               </list>
+               <list>
+                  <head>St. <hi>Albanes.</hi>
+                  </head>
+                  <item>Albon Cox</item>
+               </list>
+               <list>
+                  <head>Hertford Borough.</head>
+                  <item>Iſaac Puller</item>
+               </list>
+               <list>
+                  <head>Huntington.</head>
+                  <item>
+                     <hi>Gen.</hi> Edward Mountagu</item>
+                  <item>Henry Cromwell</item>
+                  <item>Nicholas Pedley</item>
+               </list>
+               <list>
+                  <head>Huntington Borough.</head>
+                  <item>John Barnard</item>
+               </list>
+               <list>
+                  <pb n="4" facs="tcp:66009:29"/>
+                  <head>Kent.</head>
+                  <item>John Dixwell</item>
+                  <item>Wiliam James</item>
+                  <item>Henry Oxinden</item>
+                  <item>Sir Thomas Style <hi>Bar.</hi>
+                  </item>
+                  <item>John Boys</item>
+                  <item>Lambert Godfrey</item>
+                  <item>Richard Beale</item>
+                  <item>John Seyliard</item>
+                  <item>Ralph Welden</item>
+                  <item>Richard Meredith</item>
+                  <item>Daniel Shatterden</item>
+               </list>
+               <list>
+                  <head>Canterbury City.</head>
+                  <item>Thomas St. Nicholas</item>
+                  <item>Vincent Denn</item>
+               </list>
+               <list>
+                  <head>Rocheſter City.</head>
+                  <item>John Parker</item>
+               </list>
+               <list>
+                  <head>Maidſtone.</head>
+                  <item>John Banks</item>
+               </list>
+               <list>
+                  <head>Dover.</head>
+                  <item>
+                     <hi>Maj. Gen.</hi> Kelſey</item>
+               </list>
+               <list>
+                  <head>Sandwich.</head>
+                  <item>
+                     <hi>Mr</hi> Fir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erne</item>
+               </list>
+               <list>
+                  <head>Quinborough.</head>
+                  <item>Gabriel Liveſey</item>
+               </list>
+               <list>
+                  <head>Leiceſter.</head>
+                  <item>Thomas Beaumont</item>
+                  <item>Francis Hacker</item>
+                  <item>William Quarles</item>
+                  <item>Thomas Pochen</item>
+               </list>
+               <list>
+                  <head>Leiceſter Borough.</head>
+                  <item>Sir Arthur Haſterig</item>
+                  <item>William Stanely</item>
+               </list>
+               <list>
+                  <head>Lincoln.</head>
+                  <item>Thomas Hall</item>
+                  <item>Thomas Liſter</item>
+                  <item>Thomas Hatchet</item>
+                  <item>Edward Roſſiter</item>
+                  <item>Charles Hall</item>
+                  <item>William Wolley</item>
+                  <item>Francis Fiennes</item>
+                  <item>William Savile</item>
+                  <item>William Welby</item>
+                  <item>Charles Huſſey</item>
+               </list>
+               <list>
+                  <head>Lincoln City.</head>
+                  <item>Original Peart</item>
+                  <item>Humphrey Walcot</item>
+               </list>
+               <list>
+                  <head>Boſton.</head>
+                  <item>Sir Anthony Irby
+<list>
+                        <item>
+                           <hi>Grantham,</hi> William Ellis</item>
+                        <item>
+                           <hi>Stamford,</hi> John Weaver</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Great Grimsky.</head>
+                  <item>William Wray</item>
+               </list>
+               <list>
+                  <head>Middleſex.</head>
+                  <item>Sir John Barkſtead</item>
+                  <item>Sir William Roberts</item>
+                  <item>Challenor Chute</item>
+                  <item>William Kiffen</item>
+               </list>
+               <list>
+                  <head>Weſtminſter.</head>
+                  <item>
+                     <hi>Col.</hi> Edward Groſvener</item>
+                  <item>Edward Cary</item>
+               </list>
+               <list>
+                  <head>London.</head>
+                  <item>Thomas Foot <hi>Alder:</hi>
+                  </item>
+                  <item>Sir Chriſtopher Pack</item>
+                  <item>Thomas Adams <hi>Alder:</hi>
+                  </item>
+                  <item>Richard Brown</item>
+                  <item>Theophilus Biddolph</item>
+                  <item>John Jones</item>
+               </list>
+               <list>
+                  <head>Monmouth.</head>
+                  <item>
+                     <hi>Maj. Gen.</hi> James Berry</item>
+                  <item>John Nicholas</item>
+                  <item>Edward Herbert</item>
+               </list>
+               <list>
+                  <head>Norfolke.</head>
+                  <item>Charles Fleetwood</item>
+                  <item>Sir John Hobart Bar.</item>
+                  <item>Sir William Doily</item>
+                  <pb n="5" facs="tcp:66009:29"/>
+                  <item>Sir Ralph Hare Barronet</item>
+                  <item>Sir Horatio Townſhend</item>
+                  <item>Phillip Woodhouſe</item>
+                  <item>Robert Wilton</item>
+                  <item>Robert Wood</item>
+                  <item>John Buxton</item>
+                  <item>Thomas Sotherton</item>
+               </list>
+               <list>
+                  <head>Lyn-Regis.</head>
+                  <item>Gen. John Dis<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>row</item>
+                  <item>Maj. Gen. Skippon</item>
+                  <item>Guibon Goddard</item>
+               </list>
+               <list>
+                  <head>Norwich City.</head>
+                  <item>Bernard Church</item>
+                  <item>John Hobart</item>
+               </list>
+               <list>
+                  <head>Great Yarmouth.</head>
+                  <item>Charles George Cock</item>
+                  <item>William Burton</item>
+               </list>
+               <list>
+                  <head>Northampton.</head>
+                  <item>Sir Gilbert Pickering Bar.</item>
+                  <item>Lord Cleypool</item>
+                  <item>Maj. Gen. William Boteler</item>
+                  <item>James Langham</item>
+                  <item>Thomas Crew</item>
+                  <item>Alexander Blake</item>
+               </list>
+               <list>
+                  <head>Peterburge.</head>
+                  <item>Francis St. John</item>
+               </list>
+               <list>
+                  <head>Northampton Town.</head>
+                  <item>Francis Harvey</item>
+               </list>
+               <list>
+                  <head>Nottingham.</head>
+                  <item>Maj. Gen. Edw: Whalley</item>
+                  <item>Edward Clud</item>
+                  <item>Edward Nevill</item>
+                  <item>Peniſton Whalley</item>
+               </list>
+               <list>
+                  <head>Nottingham Town.</head>
+                  <item>Col. James Chadwick</item>
+                  <item>William Drury Alderman</item>
+               </list>
+               <list>
+                  <head>Northumberland.</head>
+                  <item>William Fenwick</item>
+                  <item>Lord Widdrington</item>
+                  <item>Robert Fenwick</item>
+               </list>
+               <list>
+                  <head>Newcaſtle <hi>upon</hi> Tine.</head>
+                  <item>Walter Strickland</item>
+               </list>
+               <list>
+                  <head>Berwicke.</head>
+                  <item>Col. George Fenwick</item>
+               </list>
+               <list>
+                  <head>Oxford.</head>
+                  <item>Charls Fleetwood</item>
+                  <item>William Lenthall</item>
+                  <item>Robert Jenkinſon</item>
+                  <item>Miles Fleetwood</item>
+                  <item>Sir Francis Norris</item>
+               </list>
+               <list>
+                  <head>
+                     <g ref="char:V">Ʋ</g>niverſity.</head>
+                  <item>Nathanael Finnes</item>
+               </list>
+               <list>
+                  <head>Oxford City.</head>
+                  <item>Richard Croke</item>
+               </list>
+               <list>
+                  <head>Woodſtock.</head>
+                  <item>Maj. Gen. William Packer</item>
+               </list>
+               <list>
+                  <head>Rutland.</head>
+                  <item>William Shield</item>
+                  <item>Abell Barker</item>
+               </list>
+               <list>
+                  <head>Salop.</head>
+                  <item>Thomas Mackworth</item>
+                  <item>Phillip Young. Samuel More</item>
+                  <item>Andrew Lloyd</item>
+               </list>
+               <list>
+                  <head>Shrewsbury.</head>
+                  <item>Col. Humphrey Mackworth</item>
+                  <item>Samuell Jones</item>
+               </list>
+               <list>
+                  <head>Bridgnorth.</head>
+                  <item>Edward Waring</item>
+               </list>
+               <list>
+                  <head>Ludlow.</head>
+                  <item>John Aſton</item>
+               </list>
+               <list>
+                  <head>Stafford.</head>
+                  <item>Sir Charls Woſley</item>
+                  <item>Thomas Crompton</item>
+                  <item>Thomas Whitgreave</item>
+               </list>
+               <list>
+                  <head>Litchfield.</head>
+                  <item>Thomas Minors</item>
+               </list>
+               <list>
+                  <pb n="6" facs="tcp:66009:30"/>
+                  <head>Stafford Town.</head>
+                  <item>Martin Noell</item>
+               </list>
+               <list>
+                  <head>Newcaſtle on the Line.</head>
+                  <item>John Bowyer</item>
+               </list>
+               <list>
+                  <head>Somerſet.</head>
+                  <item>Generall Disbrow</item>
+                  <item>John Buckland</item>
+                  <item>Alexander Popham</item>
+                  <item>Robert Long. John Gorges</item>
+                  <item>Francis Luttrell. John Aſh</item>
+                  <item>John Harrington</item>
+                  <item>Liſlebone Long</item>
+                  <item>William Whindham</item>
+                  <item>Francis Roll</item>
+                  <item>
+                     <hi>Taunton,</hi> Robert Blake</item>
+                  <item>Tho: Gorges</item>
+                  <item>
+                     <hi>Bath,</hi> James Aſh</item>
+                  <item>
+                     <hi>Wells,</hi> John Jenkyn</item>
+                  <item>
+                     <hi>Bridgwater,</hi> Gen. Disbrow</item>
+               </list>
+               <list>
+                  <head>Briſtoll.</head>
+                  <item>Robert Aldworth</item>
+                  <item>John Doddrige</item>
+               </list>
+               <list>
+                  <head>Southampton.</head>
+                  <item>Lord Richard Cromwell</item>
+                  <item>Maj. Gen. William Goffe</item>
+                  <item>Robert Wallop</item>
+                  <item>Richard Norton</item>
+                  <item>Thomas Cole</item>
+                  <item>John Bulkley. Richard Cob</item>
+                  <item>Edward Hooper, Elder</item>
+               </list>
+               <list>
+                  <head>Wincheſter.</head>
+                  <item>John Hildeſley</item>
+               </list>
+               <list>
+                  <head>Southampton Tomn</head>
+                  <item>John Liſle Lord Com.</item>
+                  <item>
+                     <hi>Portſmouth</hi> Thomas Smith</item>
+               </list>
+               <list>
+                  <head>Iſle of Wight.</head>
+                  <item>William Sydenham</item>
+                  <item>Thomas Bowreman</item>
+                  <item>
+                     <hi>Andover,</hi> Thomas Huſſey</item>
+               </list>
+               <list>
+                  <head>Suffolk</head>
+                  <item>Sir Henry Felton</item>
+                  <item>Sir Thomas Barnidſton</item>
+                  <item>Henry North</item>
+                  <item>Edmond Harvey</item>
+                  <item>Edward Wineve</item>
+                  <item>John Silkmore</item>
+                  <item>William Bloys</item>
+                  <item>William Gibbs</item>
+                  <item>Robert Brewſter</item>
+                  <item>Daniel Wall</item>
+               </list>
+               <list>
+                  <head>Ipſwich.</head>
+                  <item>Nathanael Bacon</item>
+                  <item>Francis Bacon</item>
+               </list>
+               <list>
+                  <head>Bury St. Edmonds.</head>
+                  <item>Samuel Moody</item>
+                  <item>John Clark</item>
+                  <item>
+                     <hi>Dunwich,</hi> Francis Brewſter</item>
+                  <item>
+                     <hi>Sudbury,</hi> John Fothergill</item>
+               </list>
+               <list>
+                  <head>Surrey.</head>
+                  <item>Sir Richard Onſlow</item>
+                  <item>Arthur Onſlow</item>
+                  <item>Francis Drake</item>
+                  <item>Lewis Audley</item>
+                  <item>George Duncomb</item>
+                  <item>John Blackwell, younger</item>
+               </list>
+               <list>
+                  <head>Southwarke.</head>
+                  <item>Samuell Highland</item>
+                  <item>Peter De La Noy</item>
+               </list>
+               <list>
+                  <head>Guilford.</head>
+                  <item>Maj. Gen. Thomas Kelſey</item>
+                  <item>
+                     <hi>Rigate,</hi> John Goodwin</item>
+               </list>
+               <list>
+                  <head>Suſſex.</head>
+                  <item>Herbert Morley</item>
+                  <item>Sir John Pelliam</item>
+                  <item>John Flagg</item>
+                  <item>John Stapley</item>
+                  <pb n="7" facs="tcp:66009:30"/>
+                  <item>Anthony Sherly</item>
+                  <item>George Courthoppe</item>
+                  <item>Sir Thomas Rivers Bar:</item>
+                  <item>Sir Thomas Parker</item>
+                  <item>
+                     <hi>Chicheſter,</hi> Hen: Peckham</item>
+                  <item>
+                     <hi>Lewis,</hi> Anthony Stapely</item>
+                  <item>
+                     <hi>Rye,</hi> Mr. Hayes</item>
+                  <item>
+                     <hi>Arundel,</hi> Sir John Trevor</item>
+               </list>
+               <list>
+                  <head>Warwick.</head>
+                  <item>Richard Lucy</item>
+                  <item>Sir Roger Burgoyne</item>
+                  <item>Edward Peyto</item>
+                  <item>Joſeph Hawkſworth</item>
+               </list>
+               <list>
+                  <head>Coventry City.</head>
+                  <item>William Purefoy</item>
+                  <item>Robert Beake</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Warwick</hi> Borough.</head>
+                  <item>Clement Throckmorton, <hi>jun.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Worceſter.</head>
+                  <item>Maj. Gen. James Berry</item>
+                  <item>Sir Thomas Rous Bar.</item>
+                  <item>Edward Pitt</item>
+                  <item>Nicholas Lechmore</item>
+                  <item>John Nanfan</item>
+               </list>
+               <list>
+                  <head>Worceſter City.</head>
+                  <item>Edmond Giles</item>
+                  <item>William Collins</item>
+               </list>
+               <list>
+                  <head>Wilts.</head>
+                  <item>Sir Anthony Aſhly-Cooper</item>
+                  <item>Sir Walter St. John Bar.</item>
+                  <item>Alexander Popham</item>
+                  <item>Thomas Grove</item>
+                  <item>Alexander Thiſtlewaite</item>
+                  <item>John Bulkley</item>
+                  <item>Richard Grubam-how</item>
+                  <item>William Ludlow</item>
+                  <item>Henry Hungerford</item>
+                  <item>Gabriel Martyn</item>
+               </list>
+               <list>
+                  <head>New Sarum.</head>
+                  <item>William Stone</item>
+                  <item>James H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ely</item>
+               </list>
+               <list>
+                  <head>Marlebrough.</head>
+                  <item>Charls Fleetwood L: Gen:</item>
+                  <item>
+                     <hi>Deviſes,</hi> Edward Scotton</item>
+               </list>
+               <list>
+                  <head>Lancaſhire.</head>
+                  <item>Sir Richard Houghton</item>
+                  <item>Col. Standiſh</item>
+                  <item>Col. Holland</item>
+               </list>
+               <list>
+                  <head>Weſtmerland.</head>
+                  <item>Chriſtopher Liſter</item>
+                  <item>Thomas Burton.</item>
+               </list>
+               <list>
+                  <head>WALES.</head>
+                  <item>George Twiſleton</item>
+                  <item>Oriffith Bedwrda</item>
+                  <item>Col. Phillip Jones</item>
+                  <item>Evan Lewis</item>
+                  <item>Col. John Clark</item>
+                  <item>James Phillips</item>
+                  <item>Lord Cleypool</item>
+                  <item>Maj. Gen Rowland Dakins</item>
+                  <item>John Gly<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>Robert Williams</item>
+                  <item>Col. John Jones</item>
+                  <item>Col. John Cartar</item>
+                  <item>John Trevor</item>
+                  <item>Edmond Thomas</item>
+                  <item>John Price</item>
+                  <item>Hugh Price</item>
+                  <item>Charls Lloyd</item>
+                  <item>John Upton</item>
+                  <item>George Gwyn</item>
+                  <item>Henry Williams.</item>
+               </list>
+               <list>
+                  <pb n="8" facs="tcp:66009:31"/>
+                  <head>SCOTLAND.</head>
+                  <item>Col. Mitchell</item>
+                  <item>Col. David Barclay</item>
+                  <item>Col. Winthrope</item>
+                  <item>Sir John Weyms L: of Boghe</item>
+                  <item>Sir Edward Rhodes</item>
+                  <item>Godfrey Rhodes</item>
+                  <item>Col. Talbot.</item>
+                  <item>John Lockhart</item>
+                  <item>Lord Cocktum</item>
+                  <item>Mr Disbrowe</item>
+                  <item>Judge Swyntoun</item>
+                  <item>Mr. Kerr</item>
+                  <item>Judge Advocate Whalley</item>
+                  <item>Judge Smith</item>
+                  <item>Col. Salmon</item>
+                  <item>Sir James Mac-dowell</item>
+                  <item>The Earle of Tweeddale</item>
+                  <item>Robbert Wooſſey</item>
+                  <item>Sir Alexander Wedderburn</item>
+                  <item>Col. Henry Markham</item>
+                  <item>Col. Whetham</item>
+                  <item>Lord Preſident Broghill</item>
+                  <item>Lord Provoſt Ramſey</item>
+                  <item>Commiſſary, Lockhart</item>
+                  <item>Scoutmaſter gen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Downing</item>
+                  <item>Alexander Dowglas.</item>
+               </list>
+               <list>
+                  <head>IRELAND.</head>
+                  <item>Lord Broghill</item>
+                  <item>Maj. Gen. Jephſon</item>
+                  <item>Vincent Gookin</item>
+                  <item>Sir John Reynolds</item>
+                  <item>Col. Abbot</item>
+                  <item>Mr. Halſey</item>
+                  <item>Col. Sadler</item>
+                  <item>Maj. Redman</item>
+                  <item>Maj. Owen</item>
+                  <item>Sir Theophilus Jones</item>
+                  <item>Sir Hardreſſe Waller</item>
+                  <item>Maj. Morgan</item>
+                  <item>Mr. Biſſe</item>
+                  <item>Mr. Tigh</item>
+                  <item>Col. Fowke</item>
+                  <item>Maj. Aſton</item>
+                  <item>Mr. Blagny</item>
+                  <item>Lieut. Col. Newborough</item>
+                  <item>Lieut. Col. Berisford</item>
+                  <item>Ralph King</item>
+                  <item>Col. Cooper</item>
+                  <item>Lieut. Col. Tragle</item>
+                  <item>Col. Ingoldsby</item>
+                  <item>Walter Waller</item>
+                  <item>Sir Robert King</item>
+                  <item>Col. Bridges</item>
+                  <item>John Davis</item>
+                  <item>Maj. Potter</item>
+                  <item>Maj. Ratlife</item>
+                  <item>Col. Suttleworth.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
